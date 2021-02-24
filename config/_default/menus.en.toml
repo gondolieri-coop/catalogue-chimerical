@@ -1,0 +1,23 @@
+[[main]]
+  identifier = "collection"
+  name = "Collected Items"
+  url = "collection"
+  weight = 1
+
+[[main]]
+  identifier = "individual"
+  name = "Individual Items"
+  url = "items"
+  weight = 2
+
+[[main]]
+  identifier = "randomizer"
+  name = "Random Item"
+  url = "randomizer"
+  weight = 3
+
+[[main]]
+  identifier = "bonus"
+  name = "Bonus Items"
+  url = "bonus"
+  weight = 4
