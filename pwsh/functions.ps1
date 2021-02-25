@@ -158,6 +158,12 @@ Function Get-ItemScaffold {
           'fan'
           'mortar and pestle'
           'rod'
+          'pitchfork'
+          'sickle'
+          'spade'
+          'trowel'
+          'fork'
+          'drill'
         )
       }
     )
