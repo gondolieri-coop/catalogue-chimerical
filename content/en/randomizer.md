@@ -1,7 +1,7 @@
 ---
 title: Random Item Selector
 description: A tool for selecting a random item from the Catalogue Chimerical
-# enabletoc: true
+enabletoc: false
 # tocLevels: ["h2", "h3", "h4"]
 ---
 
