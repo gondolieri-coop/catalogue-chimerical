@@ -75,19 +75,93 @@ Function Get-ItemScaffold {
   Param()
   Begin {
     $CategorySelection = @(
-      @('art:statues')
-      @('art:tablets')
-      @('art:pottery')
-      @('art:illustrations')
-      @('art:paintings')
-      @('panoply:weapons')
-      @('panoply:armor')
-      @('panoply:shields')
-      @('jewelry')
-      @('clothing')
-      @('ritual-sacrifices')
-      @('tools')
+      @{
+        Name = 'art'
+        Type = @(
+          'statues'
+          'tablets'
+          'illustrations'
+          'pottery'
+        )
+      }
+      @{
+        Name = 'panoply'
+        Type = @(
+          'weapons'
+          'armor'
+          'shield'
+        )
+      }
+      @{
+        Name = 'jewelry'
+        Type = @(
+          'ring'
+          'necklace'
+          'circlet'
+          'pin'
+          'bracelet'
+          'bellychain'
+          'piercing'
+          'brooch'
+          'anklet'
+        )
+      }
+      @{
+        Name = 'clothing'
+        Type = @(
+          'apron'
+          'robe'
+          'bib'
+          'blouse'
+          'tunic'
+          'hat'
+          'veil'
+          'shawl'
+          'dress'
+          'skirt'
+          'gloves'
+          'jacket'
+          'vest'
+          'cloak'
+          'sash'
+          'shirt'
+          'socks'
+          'handkerchief'
+          'wrap'
+        )
+      }
+      @{
+        Name = 'ritual-sacrifices'
+        Type = @(
+          'bodypart'
+          'food'
+          'object'
+        )
+      }
+      @{
+        Name = 'tools'
+        Type = @(
+          'pliars'
+          'tongs'
+          'knife'
+          'chisel'
+          'stylus'
+          'brush'
+          'machete'
+          'shears'
+          'plane'
+          'hook'
+          'scythe'
+          'saw'
+          'whetstone'
+          'handtruck'
+          'fan'
+          'mortar and pestle'
+          'rod'
+        )
+      }
     )
+
     $Target = @(
       'positive effect on self'
       'positive effect on others'
@@ -149,15 +223,17 @@ Function Get-ItemScaffold {
     )
   }
   Process {
+    $CategoryInfo = $CategorySelection | Get-Random -Count 1
     $Item = [PSCustomObject]@{
-      CategorySelection  = $CategorySelection | Get-Random -Count 1
+      Category           = $CategoryInfo.Name
+      Subcategory        = $CategoryInfo.Type | Get-Random -Count 1
       Target             = $Target | Get-Random -Count 1
       Theme              = $Theme | Get-Random -Count 1
       DecorativeMaterial = $DecorativeMaterial | Get-Random -Count 1
       Detail             = $Detail | Get-Random -Count 1
       Effect             = $Effect | Get-Random -Count 1
     }
-    "This is a ($($Item.CategorySelection)) which has a $($Item.Target). It's theme is $($Item.Theme) and it is decorated with $($Item.DecorativeMaterial) and $($Item.Detail); it effects $($Item.Effect)."
+    "This is a ($($Item.Category):$($Item.Subcategory)) which has a $($Item.Target). It's theme is $($Item.Theme) and it is decorated with $($Item.DecorativeMaterial) and $($Item.Detail); it effects $($Item.Effect)."
   }
   End {}
 }
