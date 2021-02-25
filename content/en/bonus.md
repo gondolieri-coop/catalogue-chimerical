@@ -159,3 +159,9 @@ When the bearer of this rod touches it to the lips of someone who fights for the
 This pitcher is rimmed with Pentolan marble and has dozens of tiny iron charms pressed into it, each shaped like a tiny fruit stand.
 
 When a single slice of fruit is placed into it along with any drinkable liquid, the liquid is infused with the flavor of that fruit as if a full day had passed. Anyone who consumes a drink poured from this pitcher feels as if they've just awoken from a restful night's sleep.
+
+## The Would-Be Spiron
+
+This ash crossbow has a stave of pentolan marble carved with a relief of the Pentolan skyline, spires rising from the canals below. Despite its impossible construction, the crossbow is relatively easy to cock, the marble bending mysteriously.
+
+The bearer of this crossbow finds themselves exceptionally hungry for renown and lucre alike; while using it in the service of those goals, they find that their aim is unerring, but they seem incapable of calculating risks.
