@@ -266,3 +266,201 @@
     This ash crossbow has a stave of pentolan marble carved with a relief of the Pentolan skyline, spires rising from the canals below. Despite its impossible construction, the crossbow is relatively easy to cock, the marble bending mysteriously.
 
     The bearer of this crossbow finds themselves exceptionally hungry for renown and lucre alike; while using it in the service of those goals, they find that their aim is unerring, but they seem incapable of calculating risks.
+- name: Beloved Memory Machete
+  categories:
+    - tools
+  tags:
+    - love
+    - mind
+  description: |
+    This copper machete has acid-etched imagery of seven people holding hands and leaning against each other. The handle is wrapped in silver wire. When held aloft, the scent of jasmine fills the air.
+
+    The bearer of this impossibly sharp and durable machete finds that, when used to clear brush, their mind drifts back towards their loved ones. If used on flesh, memories of their loved ones fade forever with each stroke.
+- name: Myopic Drakemask Helm
+  categories:
+    - panoply
+    - armor
+  tags:
+    - sight
+  description: |
+    This extravagant bronze helm is polished mirror bright and includes an ironoak face mask carved like a raging drake with a hole for the mouth but not eyes. From the carved eyes run rivulets of blood, seemingly fresh.
+
+    When the facemask is in place, the bearer can see nothing but their enemy, whom they see moving in slow motion compared to their own reflexes. For every minute the helm is worn, the bearer's tears will be bloody for one day.
+- name: Bloodflame Dish
+  categories:
+    - ritual-sacrifices
+  tags:
+    - fire
+  description: |
+    This soup dish is carved from a single piece of Pentolan marble, a roiling flame of stone spreading from its belly which is stained dark with blood.
+
+    When food is mixed with the consumer's own blood, the consumer finds themself utterly immune to flame, smoke, and heat until they have finished digesting the meal; at that point, the consumer becomes violently ill for a day, vomiting flammable blood.
+- name: Pedestal of Thundering Thought
+  categories:
+    - ritual-sacrifices
+  tags:
+    - hearing
+    - lightning
+  description: |
+    This squat Pentolan marble pedestal is capped with a mirror of bronze, the surface of which causes a painful shock when touched.
+
+    If an item is placed upon this pedestal beneath a clear sky it will be destroyed in a sudden and vicious bolt of lightning. For the next hour, the person who placed the item can hear the thoughts of its rightful owner. For the rest of the day, they are deafened by the echoes of thunder.
+- name: Lover's Light Robe
+  categories:
+    - clothing
+  tags:
+    - light
+    - love
+  description: |
+    This short pale red linen robe has silver wire sewn through its edges displaying handsome men embracing. At the sleeves, tiny iron charms in the shape of faces, eyes closed, lips puckered.
+
+    While worn by someone in love, all light is brighter, everything more visible. When worn by someone who loves no-one, all light fades, hiding the wearer in shadow.
+- name: Spearscale Coat
+  categories:
+    - panoply
+    - armor
+  tags:
+    - war
+    - violence
+  description: |
+    This coat of tiny bronze scales has several precious iron scales sewn into its chest in the image of a brilliant spearhead, the top scales stained red with blood that never cleans off.
+
+    While worn, this coat of scaled imbues the wearer with a powerful lust for glory and battle, filling their belly with fire. Their hand becomes quick to violence, their mind slow to think about anything else.
+- name: Moonroot Tablet
+  categories:
+    - art
+    - tablets
+  tags:
+    - lust
+    - moon
+  description: |
+    This azure-lacquered tablet has a moon-bent tree made from polished ironoak laid into its face, the roots of which entangle each other and protrude from the tablet to end in small spikes.
+
+    When a group of people prick their finger upon the roots of the tree together, the root painfully breaks from the tablet, lodging itself as a splinter. Those who bear the splinters alway know the precise direction and distance to one another but also find themselves overcome with lust for each other when in moonlight.
+- name: Bloodflame Stone
+  categories:
+    - ritual-sacrifices
+  tags:
+    - beasts
+    - fire
+  description: |
+    This small jasper pebble is polished smooth and soft to the touch, almost squishy when held between two fingers. The swirls in its surface are remeniscent of a starting flame, just now catching hold.
+
+    When pressed into an open wound, the bearer finds that the wound will not close and burns painfully, rendering the limb it was placed in nearly useless. In exchange, however, the bearer may touch any friendly beast, imbuing it with the spirit of flame, granting it immunity to fire even as it ignites into living flame. The stone cannot be removed except by amputation.
+- name: Moonshrouded Shirt
+  categories:
+    - clothing
+  tags:
+    - sight
+    - moon
+  description: |
+    This deep purple linen shirt is sewn with extraordinarily thin iron wire in the shape of a cloud-shrouded moon over the right breast. Between the wires grows a pale green mold, clinging to the shirt in flaky outgrowths.
+
+    The wearer can always see the moon's outline, no matter what it is hidden behind. In moonlight, the mold grows noticeably. If scraped from the shirt, the mold can be ingested to give the consumer uncanny sight in moonless darkness.
+- name: Friendmaking Handtruck
+  categories:
+    - tools
+  tags:
+    - friendship
+  description: |
+    This handtruck features a thick bronze pry at the base of a long ironoak handle with two stubby wheels. Tiny iron charms in the shape of hearts dangle from the spokes of each wheel.
+
+    When used to move heavy objects, people treat the user with a degree of familiarity directly proportional to the weight of the load being moved. For the user, the load is always light as a feather until unloaded.
+- name: Shared Memory Skirt
+  categories:
+    - panoply
+    - armor
+  tags:
+    - memory
+  description: |
+    This enamelled linen skirt depicts warriors facing outwards, swords drawn, each clasping hands with another. Every third panel of the skirt is made of thin Pentolan marble carved the same, except the warriors are looking at each other.
+
+    When worn, the air smells faintly of mint and pepper. The wearer may clasp hands with someone and both can see a shared memory as if it is reoccurring right now, but from the other's perspective.
+- name: Marine's Struggle
+  categories:
+    - art
+    - illustrations
+  tags:
+    - battle
+    - hearing
+  description: |
+    This charcoal drawing of a fierce ship-boarding battle has more _feeling_ than detail, showing swirling smoke and mortal struggle. The few pieces of armor depicted are made of iron shavings, not coal, and flicker violently in firelight.
+
+    Staring too long at this illustration fills the viewer's ears with the din of a hard-fought battle. For the next week, they are particularly attuned to the sounds that accompany violence, picking them out easily even a hundred yards away.
+- name: Bloodgrin Saw
+  categories:
+    - tools
+  tags:
+    - gravity
+    - blood
+  description: |
+    This porcelain handled woodsaw has a bronze blade, the teeth immaculate but shaped like a terrifyingly bloodstained grin.
+
+    Anything cut with this saw appears to bleed, regardless of material, seeping a small amount of fresh blood. Whatever is cut away with this saw remains weightless, floating in the air.
+- name: Winter's Breath Jacket
+  categories:
+    - clothing
+  tags:
+    - ice
+  description: |
+    This thick dawn-gray linen jacket is stuffed with goose down and features golden thread woven into the hems and into an esoteric rune on the back which looks like a distorted snowflake made of arrowheads.
+
+    The wearer never feels the cold though their breath always clouds in a thick fog. Snow which lands on the jacket is immediately subsumed by it, disappearing in a flash of steam.
+- name: Friendfeast Cup
+  categories:
+    - art
+    - pottery
+  tags:
+    - metamagic
+  description: |
+    This simple cup is glazed a pale orange, its thick rim made of smooth Pentolan marble featuring reclining friends chatting and drinking together. When left in the dark, it hums quietly, reminding listeners of their favorite tune.
+
+    Any non-alcoholic liquid drunk from this cup tastes like and has the effect of clean, cool water, regardless of origin. Any alcohol drunk from the cup is three times as potent in taste and effect.
+- name: Longworker's Gloves
+  categories:
+    - clothing
+  tags:
+    - health
+  description: |
+    These sky-blue drakeleather gloves feature small opals set into the first knuckle of each digit. A purple-gray mold grows in the shape of the Watchful Moon from the palm of each glove, regrowing in moonlight if scraped away.
+
+    The wearer's hands never tire nor grow sore from work. The mold can be infused and drunk as a tea; the wearer finds the tea deeply bitter but others find it sweet and rejuvinating, filling them with energy as if they'd just woken from a relaxing nap.
+- name: Mace of Avarice & Ease
+  categories:
+    - panoply
+    - weapons
+  tags:
+    - greed
+  description: |
+    This small solid silver mace is perpetually a little damp. Each of the seven flanges are etched with images of prosperity and good fortune; a lawyer, thief, warrior, painter, merchant, chef, and musician.
+
+    Anyone struck by this mace becomes greedy, exponentially more motivated by the promise of wealth and recognition. The bearer themself is inured to any such impulses for as long as they hold the mace.
+- name: Moonmirror
+  categories:
+    - art
+    - statues
+  tags:
+    - gravity
+  description: |
+    This hand-wide statue of the Watchful Moon floats eerily a foot above whatever surface it is placed upon, sitting perfectly still in space. It is made entirely of wrought iron.
+
+    Anything lit by light reflected from this statue becomes weightless while so lit. Anything lit by actual moonlight reflected from this statue withers quickly away, aging a year each second it is exposed.
+- name: Embrace of the Violet Storm
+  categories:
+    - clothing
+  tags:
+    - age
+  description: |
+    This pink silk waist wrap features purple threads in the image of the Violet Storm, strewn with tiny amethysts. Picking it up causes a powerful static shock.
+
+    The wearer of this wrap does not appear to age but feels an overpowering desire to go out and brave the Violet Storm when it comes. If they do survive, the effects of the wrap endure even when not worn. If the wrap is ever removed, they age as if ten times as much time had passed since they first wore it.
+- name: Stormbreaker
+  categories:
+    - panoply
+    - weapons
+  tags:
+    - lightning
+  description: |
+    This small bronze handaxe is capped with a lightning-shaped spike of polished iron. The haft is made from scorched olive wood. Picking it up brings forth a powerful smell of ozone.
+
+    When held aloft in a storm this axe draws the full fury of the skies upon itself; the bearer's body is immune to the destruction, which rapidly transfers from the weather into the weapon, affecting everything nearby.
