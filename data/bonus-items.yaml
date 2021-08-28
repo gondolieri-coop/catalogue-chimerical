@@ -464,3 +464,140 @@
     This small bronze handaxe is capped with a lightning-shaped spike of polished iron. The haft is made from scorched olive wood. Picking it up brings forth a powerful smell of ozone.
 
     When held aloft in a storm this axe draws the full fury of the skies upon itself; the bearer's body is immune to the destruction, which rapidly transfers from the weather into the weapon, affecting everything nearby.
+- name: Peacelily Ring
+  categories:
+    - jewelry
+  tags:
+    - nature
+    - anger
+  description: |
+    A small copper ring with a razor sharp porcelain peace lily erupting from it, stained with blood that obstinately refuses wash out.
+
+    When the bearer pricks their own finger on the flower, the tempers of everyone nearby are said to cool considerably, robbing them of violent and hurtful thought.
+- name: Raptorhelm
+  categories:
+    - panoply
+    - armor
+  tags:
+    - war
+    - beast
+  description: |
+    A hemisphere of dull bronze chased with tarnished silver depicting ravens attacking and a golden eagle cawing.
+
+    The last bearer was always attacked on sight by corvids when the moon was up until, finally, one removed her eye and she elected to give up the helmet. She swears she dreamt of the golden eagle but could never understand its caws.
+- name: Tumblespire Brooch
+  categories:
+    - jewelry
+  tags:
+    - prosperity
+    - gravity
+  description: |
+    A porcelain clasp for cloaks with small iron charms laid into it depicting one of the cities spires in various states of collapse. This spire does not seem to exist.
+
+    This brooch was recovered from a hanged thief who sought to use it to pull down our embassy in this debaucherous place. Under... questioning, he admitted he had been instructed to slide the pin into the mortar of a central pillar, which would collapse the building after three cycles of the moon.
+- name: Myopic Moplah
+  categories:
+    - panoply
+    - weapons
+  tags:
+    - propserity
+    - sight
+  description: |
+    A broad-bladed sword with a widely curving tip, the small guard made of marble and the grip opaline, depicting a lavish villa above the sea.
+
+    Acquired from a warrior who was laid low in a street fight, struck from behind. Witnesses reported that she seemed wholly unaware of anyone and anything except for the person she had begun attacking, though the blade reportedly sheared through her target's blade, shield, and body alike.
+- name: Leapfast Flask
+  categories:
+    - art
+    - pottery
+  tags:
+    - war
+    - gravity
+  description: |
+    This clay flask is glazed in the Pentolan style, depicting figures in their linen panoply dancing above yawning crevasses made of cracks filled with some dark gum.
+
+    The old sea captain who sold it explained that pouring drinks for one's own followers loosens gravity's grip on them til the next dawn, which he used to keep his rigging-climbers safe.
+- name: Linecutter Shears
+  categories:
+    - tools
+  tags:
+    - war
+    - anger
+  description: |
+    A pair of copper shears, the handles banded with porcelain etched like crashing waves. The blades are shaped like the prows of warships rather than practical triangles.
+
+    Sold as part of an auction of items recovered from pirates, verified to be capable of slicing through anything the bearer believes to belong to a sworn enemy.
+- name: Pike's Tooth
+  categories:
+    - panoply
+    - weapons
+  tags:
+    - nature
+    - speed
+  description: |
+    This bronze blade is thick, almost beautiful, a twisting three-pointed star that rises to a sharp point like a Pentolan Pike's bite, it's pommel a flat wooden disc with a strange rune burned into it.
+
+    Forged as a gift to a Gascon who died en route to the city, this weapon makes even a slow warrior fast, enabling them to stab with supernatural speed if they stand upon the waves.
+- name: Hearty Ship
+  categories:
+    - art
+    - statues
+  tags:
+    - war
+    - health
+  description: |
+    This 1:600 scale model of a Pentolan warship is, perhaps, useful to study for future conflict; the entire thing is made of ironoak and assembled with precision, a full replica.
+
+    I am assured by both the impoverished captain who auctioned this item as well as our own verification that so long as this ship is floated in water any effects of aging or sickness will effect the model instead.
+- name: Lightkeeper Shield
+  categories:
+    - panoply
+    - shield
+  tags:
+    - prosperity
+    - light
+  description: |
+    This siege pavis is a relic of older days, out of fashion even by Pentolan standards. It is constructed of ironoak boards with a lavish golden lantern carefully inlaid upon its face, always bright.
+
+    My research has shown that this shield absorbs some amount of all the light directed at it and, if tapped hard against the ground, will unleash this stored light in a cone before it from the lantern's golden flame.
+- name: Carbuncle's Friend
+  categories:
+    - jewelry
+  tags:
+    - nature
+    - beasts
+  description: |
+    This thin copper anklet is studded with half a dozen carbuncle eyes, crudely--though not hideously--set.
+
+    While worn, any carbuncles in the area are drawn to the wearer, docilely rubbing their bodies up against the wearer's foot.
+- name: Anchortoss Buckler
+  categories:
+    - panoply
+    - shield
+  tags:
+    - nature
+    - gravity
+  description: |
+    This small buckler is pleasingly shaped, a polygon with nine sides. The boss is an eleven-sided polygon with a tiny iron charm in the shape of an anchor set upon it.
+
+    Held, this shield is remarkably light and mobile. Thrown, it impacts like a boulder tossed by a war machine.
+- name: Mintstorm Tunic
+  categories:
+    - clothing
+  tags:
+    - nature
+    - lightning
+  description: |
+    This tunic is idiomatic of Pentolan fashion, woven from some alchemically cultivated form of mint, and it smells like it. Darker leaves are woven around the hem in the shape of storm clouds.
+
+    After discussion with the auctioneer, we tested and verified that the tunic makes the bearer extremely prone to lightning strikes, but immune to their destructive power.
+- name: Heartrend Saw
+  categories:
+    - tools
+  tags:
+    - prosperity
+    - love
+  description: |
+    This little handsaw is unbelievably extravagant and impractical, made of silver with iron teeth forge welded on. Between the teeth, pale yellow mold furs.
+
+    The donator noted that this saw can be used on oneself to remove any and all romantic feelings toward someone, the mold furring more thickly. If ingested, the mold induces vivid dreams of loves consumed by the saw.
