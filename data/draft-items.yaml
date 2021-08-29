@@ -1,0 +1,1584 @@
+- name: TODO
+  categories:
+    - art
+    - statues
+  tags:
+    - love
+    - taste
+  description: |
+    This is a (art:statues) which has a negative effect on self.
+    It's theme is love and it is decorated with bronze and bloodstained;
+    it effects taste.
+- name: TODO
+  categories:
+    - art
+    - statues
+  tags:
+    - moon
+    - stone
+  description: |
+    This is a (art:statues) which has a negative effect on others.
+    It's theme is moon and it is decorated with precious gem and polished smooth and soft;
+    it effects stone.
+- name: TODO
+  categories:
+    - art
+    - statues
+  tags:
+    - fire
+    - mind
+  description: |
+    This is a (art:statues) which has a negative effect on self.
+    It's theme is fire and it is decorated with porcelain and bloodstained;
+    it effects mind.
+- name: TODO
+  categories:
+    - art
+    - statues
+  tags:
+    - fire
+    - light/darkness
+  description: |
+    This is a (art:statues) which has a positive effect on others.
+    It's theme is fire and it is decorated with pentolan marble and polished smooth and soft;
+    it effects light/darkness.
+- name: TODO
+  categories:
+    - art
+    - statues
+  tags:
+    - moon
+    - gravity
+  description: |
+    This is a (art:statues) which has a negative effect on others.
+    It's theme is moon and it is decorated with pentolan marble and has tiny iron charms attached;
+    it effects gravity.
+- name: TODO
+  categories:
+    - art
+    - statues
+  tags:
+    - fire
+    - beasts
+  description: |
+    This is a (art:statues) which has a positive effect on others.
+    It's theme is fire and it is decorated with pentolan marble and bloodstained;
+    it effects beasts.
+- name: TODO
+  categories:
+    - art
+    - tablets
+  tags:
+    - nature
+    - taste
+  description: |
+    This is a (art:tablets) which has a positive effect on others.
+    It's theme is nature and it is decorated with iron and always causes a small shock;
+    it effects taste.
+- name: TODO
+  categories:
+    - art
+    - tablets
+  tags:
+    - love
+    - speed
+  description: |
+    This is a (art:tablets) which has a negative effect on others.
+    It's theme is love and it is decorated with pentolan marble and marked with a strange rune;
+    it effects speed.
+- name: TODO
+  categories:
+    - art
+    - tablets
+  tags:
+    - war
+    - mind
+  description: |
+    This is a (art:tablets) which has a negative effect on self.
+    It's theme is war and it is decorated with porcelain and hums softly in the dark;
+    it effects mind.
+- name: TODO
+  categories:
+    - art
+    - tablets
+  tags:
+    - prosperity
+    - ice
+  description: |
+    This is a (art:tablets) which has a positive effect on self.
+    It's theme is prosperity and it is decorated with precious metal and has intricate opaline scrollwork;
+    it effects ice.
+- name: TODO
+  categories:
+    - art
+    - tablets
+  tags:
+    - fire
+    - greed
+  description: |
+    This is a (art:tablets) which has a negative effect on self.
+    It's theme is fire and it is decorated with precious metal and grows a strange mold;
+    it effects greed.
+- name: TODO
+  categories:
+    - art
+    - tablets
+  tags:
+    - war
+    - size
+  description: |
+    This is a (art:tablets) which has a negative effect on self.
+    It's theme is war and it is decorated with porcelain and bloodstained;
+    it effects size.
+- name: TODO
+  categories:
+    - art
+    - illustrations
+  tags:
+    - prosperity
+    - size
+  description: |
+    This is a (art:illustrations) which has a positive effect on self.
+    It's theme is prosperity and it is decorated with ironoak and has tiny iron charms attached;
+    it effects size.
+- name: TODO
+  categories:
+    - art
+    - illustrations
+  tags:
+    - love
+    - health
+  description: |
+    This is a (art:illustrations) which has a negative effect on others.
+    It's theme is love and it is decorated with precious metal and hums softly in the dark;
+    it effects health.
+- name: TODO
+  categories:
+    - art
+    - illustrations
+  tags:
+    - prosperity
+    - fire
+  description: |
+    This is a (art:illustrations) which has a negative effect on others.
+    It's theme is prosperity and it is decorated with porcelain and makes light flicker nearby;
+    it effects fire.
+- name: TODO
+  categories:
+    - art
+    - illustrations
+  tags:
+    - love
+    - fire
+  description: |
+    This is a (art:illustrations) which has a positive effect on self.
+    It's theme is love and it is decorated with pentolan marble and polished smooth and soft;
+    it effects fire.
+- name: TODO
+  categories:
+    - art
+    - illustrations
+  tags:
+    - fire
+    - ice
+  description: |
+    This is a (art:illustrations) which has a positive effect on others.
+    It's theme is fire and it is decorated with precious gem and is always slightly damp;
+    it effects ice.
+- name: TODO
+  categories:
+    - art
+    - illustrations
+  tags:
+    - fire
+    - age
+  description: |
+    This is a (art:illustrations) which has a negative effect on others.
+    It's theme is fire and it is decorated with pentolan marble and marked with a strange rune;
+    it effects age.
+- name: TODO
+  categories:
+    - art
+    - pottery
+  tags:
+    - fire
+    - beasts
+  description: |
+    This is a (art:pottery) which has a negative effect on self.
+    It's theme is fire and it is decorated with precious gem and has tiny iron charms attached;
+    it effects beasts.
+- name: TODO
+  categories:
+    - art
+    - pottery
+  tags:
+    - fire
+    - plants
+  description: |
+    This is a (art:pottery) which has a positive effect on others.
+    It's theme is fire and it is decorated with precious gem and partially wrapped in silk;
+    it effects plants.
+- name: TODO
+  categories:
+    - art
+    - pottery
+  tags:
+    - prosperity
+    - beasts
+  description: |
+    This is a (art:pottery) which has a positive effect on self.
+    It's theme is prosperity and it is decorated with precious gem and is always slightly damp;
+    it effects beasts.
+- name: TODO
+  categories:
+    - art
+    - pottery
+  tags:
+    - moon
+    - greed
+  description: |
+    This is a (art:pottery) which has a negative effect on others.
+    It's theme is moon and it is decorated with precious gem and polished smooth and soft;
+    it effects greed.
+- name: TODO
+  categories:
+    - art
+    - pottery
+  tags:
+    - fire
+    - age
+  description: |
+    This is a (art:pottery) which has a positive effect on others.
+    It's theme is fire and it is decorated with porcelain and makes light flicker nearby;
+    it effects age.
+- name: TODO
+  categories:
+    - art
+    - pottery
+  tags:
+    - fire
+    - speed
+  description: |
+    This is a (art:pottery) which has a negative effect on others.
+    It's theme is fire and it is decorated with pentolan marble and has intricate opaline scrollwork;
+    it effects speed.
+- name: TODO
+  categories:
+    - panoply
+    - armor
+  tags:
+    - nature
+    - sight
+  description: |
+    This is a (panoply:armor) which has a negative effect on others.
+    It's theme is nature and it is decorated with precious metal and has intricate opaline scrollwork;
+    it effects sight.
+- name: TODO
+  categories:
+    - panoply
+    - armor
+  tags:
+    - love
+    - size
+  description: |
+    This is a (panoply:armor) which has a positive effect on self.
+    It's theme is love and it is decorated with porcelain and bloodstained;
+    it effects size.
+- name: TODO
+  categories:
+    - panoply
+    - armor
+  tags:
+    - prosperity
+    - plants
+  description: |
+    This is a (panoply:armor) which has a positive effect on self.
+    It's theme is prosperity and it is decorated with bronze and polished smooth and soft;
+    it effects plants.
+- name: TODO
+  categories:
+    - panoply
+    - armor
+  tags:
+    - prosperity
+    - anger
+  description: |
+    This is a (panoply:armor) which has a positive effect on self.
+    It's theme is prosperity and it is decorated with pentolan marble and makes light flicker nearby;
+    it effects anger.
+- name: TODO
+  categories:
+    - panoply
+    - armor
+  tags:
+    - prosperity
+    - size
+  description: |
+    This is a (panoply:armor) which has a negative effect on others.
+    It's theme is prosperity and it is decorated with iron and has intricate opaline scrollwork;
+    it effects size.
+- name: TODO
+  categories:
+    - panoply
+    - armor
+  tags:
+    - nature
+    - sight
+  description: |
+    This is a (panoply:armor) which has a positive effect on others.
+    It's theme is nature and it is decorated with precious metal and smells like a spice;
+    it effects sight.
+- name: TODO
+  categories:
+    - panoply
+    - armor
+  tags:
+    - love
+    - anger
+  description: |
+    This is a (panoply:armor) which has a negative effect on others.
+    It's theme is love and it is decorated with ironoak and makes light flicker nearby;
+    it effects anger.
+- name: TODO
+  categories:
+    - panoply
+    - armor
+  tags:
+    - war
+    - light/darkness
+  description: |
+    This is a (panoply:armor) which has a positive effect on self.
+    It's theme is war and it is decorated with ironoak and marked with a strange rune;
+    it effects light/darkness.
+- name: TODO
+  categories:
+    - panoply
+    - armor
+  tags:
+    - fire
+    - gravity
+  description: |
+    This is a (panoply:armor) which has a negative effect on others.
+    It's theme is fire and it is decorated with precious gem and polished smooth and soft;
+    it effects gravity.
+- name: TODO
+  categories:
+    - panoply
+    - armor
+  tags:
+    - moon
+    - ice
+  description: |
+    This is a (panoply:armor) which has a positive effect on self.
+    It's theme is moon and it is decorated with ironoak and makes light flicker nearby;
+    it effects ice.
+- name: TODO
+  categories:
+    - panoply
+    - armor
+  tags:
+    - prosperity
+    - lightning
+  description: |
+    This is a (panoply:armor) which has a negative effect on others.
+    It's theme is prosperity and it is decorated with bronze and has tiny iron charms attached;
+    it effects lightning.
+- name: TODO
+  categories:
+    - panoply
+    - armor
+  tags:
+    - fire
+    - sight
+  description: |
+    This is a (panoply:armor) which has a negative effect on others.
+    It's theme is fire and it is decorated with porcelain and is always slightly damp;
+    it effects sight.
+- name: TODO
+  categories:
+    - panoply
+    - shields
+  tags:
+    - love
+    - mind
+  description: |
+    This is a (panoply:shields) which has a positive effect on self.
+    It's theme is love and it is decorated with precious gem and partially wrapped in silk;
+    it effects mind.
+- name: TODO
+  categories:
+    - panoply
+    - shields
+  tags:
+    - moon
+    - light/darkness
+  description: |
+    This is a (panoply:shields) which has a positive effect on self.
+    It's theme is moon and it is decorated with pentolan marble and has tiny iron charms attached;
+    it effects light/darkness.
+- name: TODO
+  categories:
+    - panoply
+    - shields
+  tags:
+    - love
+    - beasts
+  description: |
+    This is a (panoply:shields) which has a positive effect on self.
+    It's theme is love and it is decorated with ironoak and has intricate opaline scrollwork;
+    it effects beasts.
+- name: TODO
+  categories:
+    - panoply
+    - shields
+  tags:
+    - love
+    - health
+  description: |
+    This is a (panoply:shields) which has a positive effect on self.
+    It's theme is love and it is decorated with pentolan marble and has tiny iron charms attached;
+    it effects health.
+- name: TODO
+  categories:
+    - panoply
+    - shields
+  tags:
+    - moon
+    - plants
+  description: |
+    This is a (panoply:shields) which has a negative effect on others.
+    It's theme is moon and it is decorated with precious metal and partially wrapped in silk;
+    it effects plants.
+- name: TODO
+  categories:
+    - panoply
+    - shields
+  tags:
+    - moon
+    - size
+  description: |
+    This is a (panoply:shields) which has a positive effect on others.
+    It's theme is moon and it is decorated with porcelain and makes light flicker nearby;
+    it effects size.
+- name: TODO
+  categories:
+    - panoply
+    - shields
+  tags:
+    - moon
+    - greed
+  description: |
+    This is a (panoply:shields) which has a negative effect on self.
+    It's theme is moon and it is decorated with iron and grows a strange mold;
+    it effects greed.
+- name: TODO
+  categories:
+    - panoply
+    - shields
+  tags:
+    - love
+    - hearing
+  description: |
+    This is a (panoply:shields) which has a positive effect on others.
+    It's theme is love and it is decorated with iron and has tiny iron charms attached;
+    it effects hearing.
+- name: TODO
+  categories:
+    - panoply
+    - shields
+  tags:
+    - prosperity
+    - anger
+  description: |
+    This is a (panoply:shields) which has a positive effect on others.
+    It's theme is prosperity and it is decorated with precious gem and marked with a strange rune;
+    it effects anger.
+- name: TODO
+  categories:
+    - panoply
+    - shields
+  tags:
+    - fire
+    - age
+  description: |
+    This is a (panoply:shields) which has a positive effect on others.
+    It's theme is fire and it is decorated with ironoak and grows a strange mold;
+    it effects age.
+- name: TODO
+  categories:
+    - panoply
+    - shields
+  tags:
+    - prosperity
+    - metamagic
+  description: |
+    This is a (panoply:shields) which has a positive effect on self.
+    It's theme is prosperity and it is decorated with pentolan marble and grows a strange mold;
+    it effects metamagic.
+- name: TODO
+  categories:
+    - panoply
+    - shields
+  tags:
+    - moon
+    - size
+  description: |
+    This is a (panoply:shields) which has a positive effect on others.
+    It's theme is moon and it is decorated with precious metal and has tiny iron charms attached;
+    it effects size.
+- name: TODO
+  categories:
+    - panoply
+    - weapons
+  tags:
+    - fire
+    - beasts
+  description: |
+    This is a (panoply:weapons) which has a negative effect on self.
+    It's theme is fire and it is decorated with precious metal and polished smooth and soft;
+    it effects beasts.
+- name: TODO
+  categories:
+    - panoply
+    - weapons
+  tags:
+    - love
+    - metamagic
+  description: |
+    This is a (panoply:weapons) which has a positive effect on self.
+    It's theme is love and it is decorated with precious gem and has tiny iron charms attached;
+    it effects metamagic.
+- name: TODO
+  categories:
+    - panoply
+    - weapons
+  tags:
+    - fire
+    - speed
+  description: |
+    This is a (panoply:weapons) which has a negative effect on self.
+    It's theme is fire and it is decorated with iron and is always slightly damp;
+    it effects speed.
+- name: TODO
+  categories:
+    - panoply
+    - weapons
+  tags:
+    - fire
+    - anger
+  description: |
+    This is a (panoply:weapons) which has a positive effect on self.
+    It's theme is fire and it is decorated with porcelain and makes light flicker nearby;
+    it effects anger.
+- name: TODO
+  categories:
+    - panoply
+    - weapons
+  tags:
+    - love
+    - metamagic
+  description: |
+    This is a (panoply:weapons) which has a positive effect on self.
+    It's theme is love and it is decorated with iron and partially wrapped in silk;
+    it effects metamagic.
+- name: TODO
+  categories:
+    - panoply
+    - weapons
+  tags:
+    - prosperity
+    - greed
+  description: |
+    This is a (panoply:weapons) which has a positive effect on others.
+    It's theme is prosperity and it is decorated with ironoak and smells like a spice;
+    it effects greed.
+- name: TODO
+  categories:
+    - panoply
+    - weapons
+  tags:
+    - fire
+    - lightning
+  description: |
+    This is a (panoply:weapons) which has a positive effect on self.
+    It's theme is fire and it is decorated with porcelain and has tiny iron charms attached;
+    it effects lightning.
+- name: TODO
+  categories:
+    - panoply
+    - weapons
+  tags:
+    - fire
+    - metamagic
+  description: |
+    This is a (panoply:weapons) which has a negative effect on self.
+    It's theme is fire and it is decorated with bronze and is always slightly damp;
+    it effects metamagic.
+- name: TODO
+  categories:
+    - panoply
+    - weapons
+  tags:
+    - moon
+    - fire
+  description: |
+    This is a (panoply:weapons) which has a negative effect on others.
+    It's theme is moon and it is decorated with precious metal and polished smooth and soft;
+    it effects fire.
+- name: TODO
+  categories:
+    - panoply
+    - weapons
+  tags:
+    - fire
+    - lust
+  description: |
+    This is a (panoply:weapons) which has a positive effect on others.
+    It's theme is fire and it is decorated with precious gem and polished smooth and soft;
+    it effects lust.
+- name: TODO
+  categories:
+    - panoply
+    - weapons
+  tags:
+    - war
+    - beasts
+  description: |
+    This is a (panoply:weapons) which has a positive effect on others.
+    It's theme is war and it is decorated with porcelain and smells like a spice;
+    it effects beasts.
+- name: TODO
+  categories:
+    - panoply
+    - weapons
+  tags:
+    - war
+    - size
+  description: |
+    This is a (panoply:weapons) which has a positive effect on others.
+    It's theme is war and it is decorated with bronze and marked with a strange rune;
+    it effects size.
+- name: TODO
+  categories:
+    - clothing
+    - apron
+  tags:
+    - war
+    - gravity
+  description: |
+    This is a (clothing:apron) which has a positive effect on others.
+    It's theme is war and it is decorated with precious gem and is always slightly damp;
+    it effects gravity.
+- name: TODO
+  categories:
+    - clothing
+    - shawl
+  tags:
+    - fire
+    - size
+  description: |
+    This is a (clothing:shawl) which has a negative effect on self.
+    It's theme is fire and it is decorated with iron and grows a strange mold;
+    it effects size.
+- name: TODO
+  categories:
+    - clothing
+    - hat
+  tags:
+    - prosperity
+    - sight
+  description: |
+    This is a (clothing:hat) which has a negative effect on self.
+    It's theme is prosperity and it is decorated with precious gem and makes light flicker nearby;
+    it effects sight.
+- name: TODO
+  categories:
+    - clothing
+    - bib
+  tags:
+    - prosperity
+    - anger
+  description: |
+    This is a (clothing:bib) which has a negative effect on others.
+    It's theme is prosperity and it is decorated with iron and polished smooth and soft;
+    it effects anger.
+- name: TODO
+  categories:
+    - clothing
+    - gloves
+  tags:
+    - prosperity
+    - age
+  description: |
+    This is a (clothing:gloves) which has a negative effect on self.
+    It's theme is prosperity and it is decorated with ironoak and has tiny iron charms attached;
+    it effects age.
+- name: TODO
+  categories:
+    - clothing
+    - handkerchief
+  tags:
+    - moon
+    - health
+  description: |
+    This is a (clothing:handkerchief) which has a negative effect on self.
+    It's theme is moon and it is decorated with ironoak and marked with a strange rune;
+    it effects health.
+- name: TODO
+  categories:
+    - clothing
+    - sash
+  tags:
+    - war
+    - fire
+  description: |
+    This is a (clothing:sash) which has a negative effect on others.
+    It's theme is war and it is decorated with iron and grows a strange mold;
+    it effects fire.
+- name: TODO
+  categories:
+    - clothing
+    - cloak
+  tags:
+    - moon
+    - lightning
+  description: |
+    This is a (clothing:cloak) which has a negative effect on others.
+    It's theme is moon and it is decorated with iron and always causes a small shock;
+    it effects lightning.
+- name: TODO
+  categories:
+    - clothing
+    - tunic
+  tags:
+    - war
+    - anger
+  description: |
+    This is a (clothing:tunic) which has a positive effect on others.
+    It's theme is war and it is decorated with porcelain and has intricate opaline scrollwork;
+    it effects anger.
+- name: TODO
+  categories:
+    - clothing
+    - wrap
+  tags:
+    - love
+    - metamagic
+  description: |
+    This is a (clothing:wrap) which has a negative effect on others.
+    It's theme is love and it is decorated with ironoak and grows a strange mold;
+    it effects metamagic.
+- name: TODO
+  categories:
+    - clothing
+    - sash
+  tags:
+    - prosperity
+    - fire
+  description: |
+    This is a (clothing:sash) which has a positive effect on others.
+    It's theme is prosperity and it is decorated with bronze and partially wrapped in silk;
+    it effects fire.
+- name: TODO
+  categories:
+    - clothing
+    - jacket
+  tags:
+    - prosperity
+    - mind
+  description: |
+    This is a (clothing:jacket) which has a positive effect on others.
+    It's theme is prosperity and it is decorated with iron and smells like a spice;
+    it effects mind.
+- name: TODO
+  categories:
+    - clothing
+    - tunic
+  tags:
+    - fire
+    - health
+  description: |
+    This is a (clothing:tunic) which has a negative effect on others.
+    It's theme is fire and it is decorated with precious metal and makes light flicker nearby;
+    it effects health.
+- name: TODO
+  categories:
+    - clothing
+    - sash
+  tags:
+    - fire
+    - sight
+  description: |
+    This is a (clothing:sash) which has a positive effect on self.
+    It's theme is fire and it is decorated with iron and polished smooth and soft;
+    it effects sight.
+- name: TODO
+  categories:
+    - clothing
+    - tunic
+  tags:
+    - war
+    - health
+  description: |
+    This is a (clothing:tunic) which has a positive effect on others.
+    It's theme is war and it is decorated with bronze and makes light flicker nearby;
+    it effects health.
+- name: TODO
+  categories:
+    - clothing
+    - socks
+  tags:
+    - war
+    - fire
+  description: |
+    This is a (clothing:socks) which has a negative effect on self.
+    It's theme is war and it is decorated with ironoak and has intricate opaline scrollwork;
+    it effects fire.
+- name: TODO
+  categories:
+    - clothing
+    - socks
+  tags:
+    - fire
+    - age
+  description: |
+    This is a (clothing:socks) which has a positive effect on self.
+    It's theme is fire and it is decorated with precious metal and is always slightly damp;
+    it effects age.
+- name: TODO
+  categories:
+    - clothing
+    - tunic
+  tags:
+    - prosperity
+    - size
+  description: |
+    This is a (clothing:tunic) which has a positive effect on self.
+    It's theme is prosperity and it is decorated with precious metal and smells like a spice;
+    it effects size.
+- name: TODO
+  categories:
+    - clothing
+    - cloak
+  tags:
+    - moon
+    - hearing
+  description: |
+    This is a (clothing:cloak) which has a negative effect on self.
+    It's theme is moon and it is decorated with iron and always causes a small shock;
+    it effects hearing.
+- name: TODO
+  categories:
+    - clothing
+    - shirt
+  tags:
+    - love
+    - mind
+  description: |
+    This is a (clothing:shirt) which has a negative effect on others.
+    It's theme is love and it is decorated with bronze and polished smooth and soft;
+    it effects mind.
+- name: TODO
+  categories:
+    - clothing
+    - shawl
+  tags:
+    - fire
+    - anger
+  description: |
+    This is a (clothing:shawl) which has a positive effect on others.
+    It's theme is fire and it is decorated with precious metal and partially wrapped in silk;
+    it effects anger.
+- name: TODO
+  categories:
+    - clothing
+    - cloak
+  tags:
+    - moon
+    - speed
+  description: |
+    This is a (clothing:cloak) which has a positive effect on others.
+    It's theme is moon and it is decorated with porcelain and is always slightly damp;
+    it effects speed.
+- name: TODO
+  categories:
+    - clothing
+    - dress
+  tags:
+    - war
+    - fire
+  description: |
+    This is a (clothing:dress) which has a negative effect on self.
+    It's theme is war and it is decorated with porcelain and hums softly in the dark;
+    it effects fire.
+- name: TODO
+  categories:
+    - clothing
+    - socks
+  tags:
+    - prosperity
+    - anger
+  description: |
+    This is a (clothing:socks) which has a positive effect on others.
+    It's theme is prosperity and it is decorated with precious metal and smells like a spice;
+    it effects anger.
+- name: TODO
+  categories:
+    - jewelry
+    - brooch
+  tags:
+    - love
+    - beasts
+  description: |
+    This is a (jewelry:brooch) which has a positive effect on self.
+    It's theme is love and it is decorated with ironoak and marked with a strange rune;
+    it effects beasts.
+- name: TODO
+  categories:
+    - jewelry
+    - pin
+  tags:
+    - prosperity
+    - taste
+  description: |
+    This is a (jewelry:pin) which has a positive effect on self.
+    It's theme is prosperity and it is decorated with bronze and partially wrapped in silk;
+    it effects taste.
+- name: TODO
+  categories:
+    - jewelry
+    - necklace
+  tags:
+    - fire
+    - anger
+  description: |
+    This is a (jewelry:necklace) which has a positive effect on others.
+    It's theme is fire and it is decorated with porcelain and is always slightly damp;
+    it effects anger.
+- name: TODO
+  categories:
+    - jewelry
+    - anklet
+  tags:
+    - war
+    - beasts
+  description: |
+    This is a (jewelry:anklet) which has a negative effect on self.
+    It's theme is war and it is decorated with iron and marked with a strange rune;
+    it effects beasts.
+- name: TODO
+  categories:
+    - jewelry
+    - bracelet
+  tags:
+    - nature
+    - beasts
+  description: |
+    This is a (jewelry:bracelet) which has a positive effect on self.
+    It's theme is nature and it is decorated with pentolan marble and makes light flicker nearby;
+    it effects beasts.
+- name: TODO
+  categories:
+    - jewelry
+    - piercing
+  tags:
+    - war
+    - stone
+  description: |
+    This is a (jewelry:piercing) which has a negative effect on self.
+    It's theme is war and it is decorated with iron and makes light flicker nearby;
+    it effects stone.
+- name: TODO
+  categories:
+    - jewelry
+    - pin
+  tags:
+    - war
+    - gravity
+  description: |
+    This is a (jewelry:pin) which has a positive effect on others.
+    It's theme is war and it is decorated with precious gem and grows a strange mold;
+    it effects gravity.
+- name: TODO
+  categories:
+    - jewelry
+    - anklet
+  tags:
+    - war
+    - lust
+  description: |
+    This is a (jewelry:anklet) which has a negative effect on self.
+    It's theme is war and it is decorated with ironoak and smells like a spice;
+    it effects lust.
+- name: TODO
+  categories:
+    - jewelry
+    - bracelet
+  tags:
+    - moon
+    - size
+  description: |
+    This is a (jewelry:bracelet) which has a positive effect on others.
+    It's theme is moon and it is decorated with bronze and grows a strange mold;
+    it effects size.
+- name: TODO
+  categories:
+    - jewelry
+    - necklace
+  tags:
+    - moon
+    - mind
+  description: |
+    This is a (jewelry:necklace) which has a positive effect on self.
+    It's theme is moon and it is decorated with ironoak and always causes a small shock;
+    it effects mind.
+- name: TODO
+  categories:
+    - jewelry
+    - ring
+  tags:
+    - war
+    - lust
+  description: |
+    This is a (jewelry:ring) which has a negative effect on self.
+    It's theme is war and it is decorated with precious gem and smells like a spice;
+    it effects lust.
+- name: TODO
+  categories:
+    - jewelry
+    - circlet
+  tags:
+    - nature
+    - size
+  description: |
+    This is a (jewelry:circlet) which has a negative effect on self.
+    It's theme is nature and it is decorated with iron and bloodstained;
+    it effects size.
+- name: TODO
+  categories:
+    - jewelry
+    - bellychain
+  tags:
+    - nature
+    - greed
+  description: |
+    This is a (jewelry:bellychain) which has a positive effect on others.
+    It's theme is nature and it is decorated with precious metal and bloodstained;
+    it effects greed.
+- name: TODO
+  categories:
+    - jewelry
+    - brooch
+  tags:
+    - love
+    - size
+  description: |
+    This is a (jewelry:brooch) which has a positive effect on self.
+    It's theme is love and it is decorated with iron and grows a strange mold;
+    it effects size.
+- name: TODO
+  categories:
+    - jewelry
+    - circlet
+  tags:
+    - war
+    - age
+  description: |
+    This is a (jewelry:circlet) which has a negative effect on others.
+    It's theme is war and it is decorated with porcelain and is always slightly damp;
+    it effects age.
+- name: TODO
+  categories:
+    - jewelry
+    - pin
+  tags:
+    - fire
+    - mind
+  description: |
+    This is a (jewelry:pin) which has a positive effect on self.
+    It's theme is fire and it is decorated with pentolan marble and always causes a small shock;
+    it effects mind.
+- name: TODO
+  categories:
+    - jewelry
+    - anklet
+  tags:
+    - moon
+    - health
+  description: |
+    This is a (jewelry:anklet) which has a negative effect on others.
+    It's theme is moon and it is decorated with precious metal and has tiny iron charms attached;
+    it effects health.
+- name: TODO
+  categories:
+    - jewelry
+    - pin
+  tags:
+    - war
+    - ice
+  description: |
+    This is a (jewelry:pin) which has a positive effect on others.
+    It's theme is war and it is decorated with precious gem and partially wrapped in silk;
+    it effects ice.
+- name: TODO
+  categories:
+    - jewelry
+    - bellychain
+  tags:
+    - war
+    - mind
+  description: |
+    This is a (jewelry:bellychain) which has a negative effect on others.
+    It's theme is war and it is decorated with bronze and has intricate opaline scrollwork;
+    it effects mind.
+- name: TODO
+  categories:
+    - jewelry
+    - bracelet
+  tags:
+    - nature
+    - anger
+  description: |
+    This is a (jewelry:bracelet) which has a positive effect on self.
+    It's theme is nature and it is decorated with ironoak and is always slightly damp;
+    it effects anger.
+- name: TODO
+  categories:
+    - jewelry
+    - piercing
+  tags:
+    - prosperity
+    - hearing
+  description: |
+    This is a (jewelry:piercing) which has a negative effect on others.
+    It's theme is prosperity and it is decorated with precious metal and is always slightly damp;
+    it effects hearing.
+- name: TODO
+  categories:
+    - jewelry
+    - brooch
+  tags:
+    - love
+    - ice
+  description: |
+    This is a (jewelry:brooch) which has a positive effect on others.
+    It's theme is love and it is decorated with ironoak and is always slightly damp;
+    it effects ice.
+- name: TODO
+  categories:
+    - jewelry
+    - brooch
+  tags:
+    - love
+    - speed
+  description: |
+    This is a (jewelry:brooch) which has a negative effect on self.
+    It's theme is love and it is decorated with bronze and hums softly in the dark;
+    it effects speed.
+- name: TODO
+  categories:
+    - jewelry
+    - brooch
+  tags:
+    - moon
+    - size
+  description: |
+    This is a (jewelry:brooch) which has a positive effect on others.
+    It's theme is moon and it is decorated with precious gem and partially wrapped in silk;
+    it effects size.
+- name: TODO
+  categories:
+    - ritual-sacrifices
+    - food
+  tags:
+    - prosperity
+    - anger
+  description: |
+    This is a (ritual-sacrifices:food) which has a negative effect on self.
+    It's theme is prosperity and it is decorated with ironoak and hums softly in the dark;
+    it effects anger.
+- name: TODO
+  categories:
+    - ritual-sacrifices
+    - object
+  tags:
+    - war
+    - gravity
+  description: |
+    This is a (ritual-sacrifices:object) which has a positive effect on self.
+    It's theme is war and it is decorated with bronze and always causes a small shock;
+    it effects gravity.
+- name: TODO
+  categories:
+    - ritual-sacrifices
+    - object
+  tags:
+    - prosperity
+    - taste
+  description: |
+    This is a (ritual-sacrifices:object) which has a negative effect on others.
+    It's theme is prosperity and it is decorated with precious gem and bloodstained;
+    it effects taste.
+- name: TODO
+  categories:
+    - ritual-sacrifices
+    - bodypart
+  tags:
+    - moon
+    - metamagic
+  description: |
+    This is a (ritual-sacrifices:bodypart) which has a positive effect on self.
+    It's theme is moon and it is decorated with ironoak and is always slightly damp;
+    it effects metamagic.
+- name: TODO
+  categories:
+    - ritual-sacrifices
+    - object
+  tags:
+    - moon
+    - lightning
+  description: |
+    This is a (ritual-sacrifices:object) which has a positive effect on others.
+    It's theme is moon and it is decorated with precious metal and has intricate opaline scrollwork;
+    it effects lightning.
+- name: TODO
+  categories:
+    - ritual-sacrifices
+    - object
+  tags:
+    - war
+    - fire
+  description: |
+    This is a (ritual-sacrifices:object) which has a positive effect on others.
+    It's theme is war and it is decorated with precious gem and always causes a small shock;
+    it effects fire.
+- name: TODO
+  categories:
+    - ritual-sacrifices
+    - bodypart
+  tags:
+    - fire
+    - size
+  description: |
+    This is a (ritual-sacrifices:bodypart) which has a positive effect on self.
+    It's theme is fire and it is decorated with bronze and is always slightly damp;
+    it effects size.
+- name: TODO
+  categories:
+    - ritual-sacrifices
+    - food
+  tags:
+    - love
+    - taste
+  description: |
+    This is a (ritual-sacrifices:food) which has a positive effect on others.
+    It's theme is love and it is decorated with pentolan marble and smells like a spice;
+    it effects taste.
+- name: TODO
+  categories:
+    - ritual-sacrifices
+    - food
+  tags:
+    - prosperity
+    - stone
+  description: |
+    This is a (ritual-sacrifices:food) which has a negative effect on others.
+    It's theme is prosperity and it is decorated with bronze and hums softly in the dark;
+    it effects stone.
+- name: TODO
+  categories:
+    - ritual-sacrifices
+    - food
+  tags:
+    - prosperity
+    - plants
+  description: |
+    This is a (ritual-sacrifices:food) which has a negative effect on self.
+    It's theme is prosperity and it is decorated with iron and smells like a spice;
+    it effects plants.
+- name: TODO
+  categories:
+    - ritual-sacrifices
+    - food
+  tags:
+    - love
+    - plants
+  description: |
+    This is a (ritual-sacrifices:food) which has a positive effect on others.
+    It's theme is love and it is decorated with precious metal and has tiny iron charms attached;
+    it effects plants.
+- name: TODO
+  categories:
+    - ritual-sacrifices
+    - object
+  tags:
+    - nature
+    - health
+  description: |
+    This is a (ritual-sacrifices:object) which has a positive effect on others.
+    It's theme is nature and it is decorated with precious metal and always causes a small shock;
+    it effects health.
+- name: TODO
+  categories:
+    - tools
+    - brush
+  tags:
+    - fire
+    - gravity
+  description: |
+    This is a (tools:brush) which has a positive effect on others.
+    It's theme is fire and it is decorated with precious gem and always causes a small shock;
+    it effects gravity.
+- name: TODO
+  categories:
+    - tools
+    - fork
+  tags:
+    - fire
+    - health
+  description: |
+    This is a (tools:fork) which has a negative effect on self.
+    It's theme is fire and it is decorated with iron and makes light flicker nearby;
+    it effects health.
+- name: TODO
+  categories:
+    - tools
+    - shears
+  tags:
+    - war
+    - mind
+  description: |
+    This is a (tools:shears) which has a negative effect on self.
+    It's theme is war and it is decorated with bronze and hums softly in the dark;
+    it effects mind.
+- name: TODO
+  categories:
+    - tools
+    - mortar and pestle
+  tags:
+    - fire
+    - light/darkness
+  description: |
+    This is a (tools:mortar and pestle) which has a negative effect on others.
+    It's theme is fire and it is decorated with bronze and bloodstained;
+    it effects light/darkness.
+- name: TODO
+  categories:
+    - tools
+    - whetstone
+  tags:
+    - war
+    - ice
+  description: |
+    This is a (tools:whetstone) which has a negative effect on others.
+    It's theme is war and it is decorated with ironoak and bloodstained;
+    it effects ice.
+- name: TODO
+  categories:
+    - tools
+    - knife
+  tags:
+    - love
+    - lust
+  description: |
+    This is a (tools:knife) which has a positive effect on others.
+    It's theme is love and it is decorated with precious gem and marked with a strange rune;
+    it effects lust.
+- name: TODO
+  categories:
+    - tools
+    - whetstone
+  tags:
+    - war
+    - gravity
+  description: |
+    This is a (tools:whetstone) which has a positive effect on others.
+    It's theme is war and it is decorated with precious gem and is always slightly damp;
+    it effects gravity.
+- name: TODO
+  categories:
+    - tools
+    - drill
+  tags:
+    - prosperity
+    - metamagic
+  description: |
+    This is a (tools:drill) which has a negative effect on others.
+    It's theme is prosperity and it is decorated with iron and bloodstained;
+    it effects metamagic.
+- name: TODO
+  categories:
+    - tools
+    - machete
+  tags:
+    - love
+    - lightning
+  description: |
+    This is a (tools:machete) which has a negative effect on self.
+    It's theme is love and it is decorated with precious gem and hums softly in the dark;
+    it effects lightning.
+- name: TODO
+  categories:
+    - tools
+    - saw
+  tags:
+    - war
+    - light/darkness
+  description: |
+    This is a (tools:saw) which has a negative effect on self.
+    It's theme is war and it is decorated with precious gem and grows a strange mold;
+    it effects light/darkness.
+- name: TODO
+  categories:
+    - tools
+    - brush
+  tags:
+    - nature
+    - gravity
+  description: |
+    This is a (tools:brush) which has a negative effect on others.
+    It's theme is nature and it is decorated with porcelain and has intricate opaline scrollwork;
+    it effects gravity.
+- name: TODO
+  categories:
+    - tools
+    - machete
+  tags:
+    - fire
+    - mind
+  description: |
+    This is a (tools:machete) which has a positive effect on self.
+    It's theme is fire and it is decorated with porcelain and has intricate opaline scrollwork;
+    it effects mind.
+- name: TODO
+  categories:
+    - tools
+    - knife
+  tags:
+    - moon
+    - plants
+  description: |
+    This is a (tools:knife) which has a negative effect on others.
+    It's theme is moon and it is decorated with precious metal and has intricate opaline scrollwork;
+    it effects plants.
+- name: TODO
+  categories:
+    - tools
+    - mortar and pestle
+  tags:
+    - prosperity
+    - anger
+  description: |
+    This is a (tools:mortar and pestle) which has a negative effect on self.
+    It's theme is prosperity and it is decorated with precious gem and always causes a small shock;
+    it effects anger.
+- name: TODO
+  categories:
+    - tools
+    - tongs
+  tags:
+    - prosperity
+    - stone
+  description: |
+    This is a (tools:tongs) which has a positive effect on others.
+    It's theme is prosperity and it is decorated with porcelain and hums softly in the dark;
+    it effects stone.
+- name: TODO
+  categories:
+    - tools
+    - saw
+  tags:
+    - moon
+    - anger
+  description: |
+    This is a (tools:saw) which has a negative effect on others.
+    It's theme is moon and it is decorated with iron and grows a strange mold;
+    it effects anger.
+- name: TODO
+  categories:
+    - tools
+    - trowel
+  tags:
+    - fire
+    - stone
+  description: |
+    This is a (tools:trowel) which has a negative effect on others.
+    It's theme is fire and it is decorated with iron and smells like a spice;
+    it effects stone.
+- name: TODO
+  categories:
+    - tools
+    - machete
+  tags:
+    - war
+    - plants
+  description: |
+    This is a (tools:machete) which has a positive effect on others.
+    It's theme is war and it is decorated with pentolan marble and partially wrapped in silk;
+    it effects plants.
+- name: TODO
+  categories:
+    - tools
+    - trowel
+  tags:
+    - nature
+    - beasts
+  description: |
+    This is a (tools:trowel) which has a negative effect on self.
+    It's theme is nature and it is decorated with ironoak and polished smooth and soft;
+    it effects beasts.
+- name: TODO
+  categories:
+    - tools
+    - fork
+  tags:
+    - nature
+    - gravity
+  description: |
+    This is a (tools:fork) which has a positive effect on self.
+    It's theme is nature and it is decorated with iron and bloodstained;
+    it effects gravity.
+- name: TODO
+  categories:
+    - tools
+    - chisel
+  tags:
+    - nature
+    - speed
+  description: |
+    This is a (tools:chisel) which has a positive effect on self.
+    It's theme is nature and it is decorated with precious gem and smells like a spice;
+    it effects speed.
+- name: TODO
+  categories:
+    - tools
+    - trowel
+  tags:
+    - prosperity
+    - stone
+  description: |
+    This is a (tools:trowel) which has a positive effect on self.
+    It's theme is prosperity and it is decorated with ironoak and makes light flicker nearby;
+    it effects stone.
+- name: TODO
+  categories:
+    - tools
+    - brush
+  tags:
+    - prosperity
+    - anger
+  description: |
+    This is a (tools:brush) which has a positive effect on others.
+    It's theme is prosperity and it is decorated with precious gem and is always slightly damp;
+    it effects anger.
+- name: TODO
+  categories:
+    - tools
+    - brush
+  tags:
+    - prosperity
+    - fire
+  description: |
+    This is a (tools:brush) which has a negative effect on others.
+    It's theme is prosperity and it is decorated with porcelain and always causes a small shock;
+    it effects fire.
