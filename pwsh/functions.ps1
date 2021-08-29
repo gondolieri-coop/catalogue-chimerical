@@ -41,18 +41,33 @@ Function Export-Item {
   Param(
     $Items,
     [Switch]$Force,
-    $Path = "$PSScriptRoot/content/en/bonus.md"
+    $FolderPath,
+    $Title
   )
   Begin {
+    if ([string]::IsNullOrEmpty($FolderPath)) {
+      $FolderPath = Join-Path -Path (Split-Path -Path $PSScriptRoot -Parent) -ChildPath 'content/en'
+      Write-Verbose $FolderPath
+    }
+    switch ($Title) {
+      'Bonus' {
+        $Description = 'Bonus magical items unlocked by followers of the Catalogue Chimerical KS Campaign'
+        $Path = "$FolderPath/$($Title.ToLower()).md"
+      }
+      'Collected' {
+        $Description = 'Collected magical items for Catalogue Chimerical'
+        $Path = "$FolderPath/collection.md"
+      }
+      Default {}
+    }
     $Content = @(
       '---'
-      'title: Bonus Items'
-      'description: Bonus magical items unlocked by followers of the Catalogue Chimerical KS Campaign'
+      "title: $Title Items"
+      "description: $Description"
       'enabletoc: true'
       'tocLevels: ["h2", "h3", "h4"]'
       '---'
     ) -join "`n"
-    
   }
   Process {
     ForEach ($Item in $Items) {
@@ -72,7 +87,10 @@ Function Export-Item {
 
 Function Get-ItemScaffold {
   [CmdletBinding()]
-  Param()
+  Param(
+    [string]$Category,
+    [string]$SubCategory
+  )
   Begin {
     $CategorySelection = @(
       @{
@@ -228,18 +246,45 @@ Function Get-ItemScaffold {
       'metamagic'
     )
   }
+
   Process {
-    $CategoryInfo = $CategorySelection | Get-Random -Count 1
+    if ([string]::IsNullOrEmpty($Category)) {
+      $CategoryInfo = $CategorySelection
+      | Get-Random -Count 1
+    } else {
+      $CategoryInfo = $CategorySelection
+      | Where-Object -FilterScript { $_.Name -eq $Category }
+      if ([string]::IsNullOrEmpty($SubCategory)) {
+        $SubCategory = $CategoryInfo.Type
+        | Get-Random -Count 1
+      }
+    }
+    if ([string]::IsNullOrEmpty($SubCategory)) {
+      $SubCategory = $CategoryInfo.Type
+      | Get-Random -Count 1
+    }
     $Item = [PSCustomObject]@{
       Category           = $CategoryInfo.Name
-      Subcategory        = $CategoryInfo.Type | Get-Random -Count 1
+      Subcategory        = $SubCategory
       Target             = $Target | Get-Random -Count 1
       Theme              = $Theme | Get-Random -Count 1
       DecorativeMaterial = $DecorativeMaterial | Get-Random -Count 1
       Detail             = $Detail | Get-Random -Count 1
       Effect             = $Effect | Get-Random -Count 1
     }
-    "This is a ($($Item.Category):$($Item.Subcategory)) which has a $($Item.Target). It's theme is $($Item.Theme) and it is decorated with $($Item.DecorativeMaterial) and $($Item.Detail); it effects $($Item.Effect)."
+    @"
+- name: TODO
+  categories:
+    - $($Item.Category)
+    - $($Item.Subcategory)
+  tags:
+    - $($Item.Theme)
+    - $($Item.Effect)
+  description: |
+    This is a ($($Item.Category):$($Item.Subcategory)) which has a $($Item.Target).
+    It's theme is $($Item.Theme) and it is decorated with $($Item.DecorativeMaterial) and $($Item.Detail);
+    it effects $($Item.Effect).
+"@
   }
   End {}
 }
