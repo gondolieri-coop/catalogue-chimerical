@@ -4,6 +4,78 @@ description: Collected magical items for Catalogue Chimerical
 enabletoc: true
 tocLevels: ["h2", "h3", "h4"]
 ---
+## Anatomy of Partnership
+
+This sketchbook is half-filled with disturbingly accurate anatomical studies of various people, the copper plates that cover it etched with a pleasingly abstract rendering of a human heart.
+
+We verified the prior owners claim; anyone who details a loved one with their own hand in this book creates a link between the artist and the subject, such that ailments and injuries upon the subject are rendered upon the artist and the illustration alike instead of the subject. Erasing an illustration severs the link but reportedly kills the subject immediately.
+
+## Bonfire of Opulence
+
+This painting of a wealthy person framed in porcelain flame depicts them looking on as a pile of visible wealth burns, as Pentolan Spirons do every seventeen years, a ritualized rejection of the wealth they continue to possess.
+
+The owner of this painting can push any item they own into the painting, slowly rendering it into the painting. The owner can later pull a copy of any item they placed in the painting, but it crumbles into ash at the next moon zenith.
+
+## Flakehearth
+
+This beautifully abstract rendering of a burning snowflake features a sliver of pale blue diamond set into the center of the thick parchment, forming the snowflake itself.
+
+When unfurled, everyone nearby finds even the coldest day easy to endure, though their eyes slowly take on the color of the diamond. This effect fades after about an hour.
+
+## Fortunate Foundling
+
+This charcoal drawing of a child wearing fabulous clothes and draped with jewels is sketched on a thin sheet of ironoak. Dangling from one corner, a handful of tiny iron charms, three missing.
+
+When one of the attached charms is removed and fed to someone younger than the owner, the child miraculously comes into wealth and luck at every turn; however, equal misfortune befalls the owner.
+
+## Friendflame
+
+This inked illustration of three friends dancing around a fire is pinned to a wafer thin sheet of Pentolan marble polished to a mirror shine.
+
+When three or more people join hands and dance around a flame in the presence of this illustration, they are imbued with the dance of the flames commensurate to their magnitude until the fire dies.
+
+## Ink of Youth
+
+This children's sketchbook features named stick figures of various people in a dozen different hands. The cover is marked with a surprisingly ornate rune, almost beautiful, though reading it makes one's eyes droop.
+
+Purchased at auction and verified, anyone who draws a stick figure in this book and signs it with their name will regain as many years of youth as they draw lines for their figure. Drawing a second figure, however, reverses the effects threefold.
+
+## Ashstorm Vase
+
+This tall, thin porcelain vase is decorated with an almost pleasantly abstract rendering of a pyroclastic flow; its neck is wrapped with a silk ribbon from which dangles a ring of polished ironoak.
+
+Any cut stem placed in this vase grows as if properly grafted and grown in the most fertile volcanic soil, never wilting.
+
+## Firecracked Chamber Pot
+
+This old, cracked chamber pot is made of pale pink porcelain and repaired with bronze to fill cracks like licking flames. Firelight in the presence of this pot dims and flickers, making the area pleasantly dark.
+
+For every year that this chamber pot is used daily an additional crack filled with bronze slowly grows. Whoever used the pot at least daily during that year finds themself inured against any illnesses or poisons consumed.
+
+## Magmatic Drake Cup
+
+This simple earthenware cup is a perfectly shaped cylinder, as wide as it is tall, marred only by the Pentolan obsession with imagery, in this case depicting a bonedrake with molten stone (stylized with tiny rubies) dripping from its bony plates.
+
+Anyone who drinks from this cup feels intensely warm, sweating despite even the coolest night breeze. Any drake bonded with the drinker shares the effect, only amplified tenfold, to the point their bony plates sear a fresh egg instantly.
+
+## Moonhoard Mug
+
+This brilliant blue mug is beset with scores of tiny gems in a fractal depiction of riches raining from a pearl moon; the surface of the glazed and fired clay is polished to a mirror sheen.
+
+When drinking from this cup, all observers find themselves impressed by the drinker's good taste and bearing, making them the most interesting and laudable person in the room. The drinker is similarly overcome with feelings of self satisfaction and a desire for more, more, more accolades.
+
+## Rich Rooster Dish
+
+This wide plate is slightly convex, featuring an inlaid silver rooster pecking at polished copper card money. Picking it up always causes a distant crowing call to be heard.
+
+When used to feed a creature, that creature's plumage or fur slowly turns into precious metals which can be plucked or sheared.
+
+## Stonethought Kettle
+
+This kettle is crafted of Pentolan marble and features surprisingly abstract opaline scrollwork depicting insect-like creatures beneath a copse of massive angular trees carved into the kettle itself.
+
+Drinking any tea from this kettle causes a curious change in the perception of time; a single sip turns seconds into minutes, though the drinker cannot move any faster during their sip.
+
 ## Burning Matron
 
 This bust of a Pentolan matron with flames for hair is surprisingly lifelike, down to every wrinkle in her serenely thoughtful face. Her eyes, looking upward, are made of porcelain, and what appears to be dried blood has trickled from her ears.
