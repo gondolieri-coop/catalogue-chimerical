@@ -552,7 +552,7 @@
 - name: Lightkeeper Shield
   categories:
     - panoply
-    - shield
+    - shields
   tags:
     - prosperity
     - light
@@ -573,7 +573,7 @@
 - name: Anchortoss Buckler
   categories:
     - panoply
-    - shield
+    - shields
   tags:
     - nature
     - gravity
