@@ -147,3 +147,219 @@ Plans made in the presence of this tablet come together with ease, participants 
 This silver tablet is small enough to hold in one hand and inlaid with aquamarine and topaz, depicting a bustling snow-blanketed market with dozens of people trading and conversing. The entire thing is lined with iridescent opaline scrollwork of tiling snowflakes.
 
 When the bearer of this tablet's breath frosts in the air, they find that haggling comes easy to them, as does accurate appraisal for any goods being sold. Anyone attempting to mislead the bearer finds their lips blue visibly while doing so.
+
+## Battlesibling Helm
+
+This dented bronze helm features a cracked pair of twin porcelain siblings wielding a sword and spear respectively. The crack runs right between them, shattering their once-held hands.
+
+While worn, this helm enables any held sword or spear to transform into the other with a flick of the wrist.
+
+## Breastplate of Cracking Dawn
+
+This linen breastplate is enamelled like a sunburst, at the heart of which is a much-cracked thumb-sized porcelain disc repaired with gold.
+
+Verification confirmed that any time the enamel disk is cracked it emits a blast of light as brilliant and warm as the first rays of dawn, though it must be repaired with gold to do so again.
+
+## Briarcall
+
+This thickly padded shirt features an stylized blackberry bramble; the berries at the hems are sewen with tarnished silver thread.
+
+The wearer of this armor can drive their fingers into the dirt to cause a thin hedge of blackberry to sprout for two yards in either direction; thick enough to prevent sight through it.
+
+## Fireheart Skirt
+
+This skirt of thick sienna drakeleather is ribbed with whalebone carved like licking flames spreading downward from the belt that cinches it; in the buckle sits a small piece of faded red coral, it's texture nearly polished away.
+
+By touching the belt buckle with a bloodied finger, the wearer of this skirt causes the center of gravity nearby to shift to the gem in the buckle for one minute, though each use smooths away more of the coral.
+
+## Frostmoon Hauberk
+
+This is knee-length full-sleeved linen shirt is thickly padded, featuring a pleasantly abstract rendering of the moon sewn above ironoak spires secured over the belly.
+
+The hauberk is exceptionally uncomfortably warm to wear except in moonlight, when the very air around the wearer begins to freeze and still, frosting everything nearby in moments.
+
+## Heartscale
+
+This thick drakeleather breastplate is covered with a layer of ironoak scales shaped like distressingly anatomically accurate hearts. When worn, firelight seems to pulse with the wearer's heartbeat.
+
+Any time the wearer's blood splashes one of the heartscales, their heartbeat becomes audible for everyone nearby; whoever spilled their blood hears it distractingly loud, like the tolling of a bell.
+
+## Iron Spiron's Vambraces
+
+This lavish pair of enamelled vambraces is chased with varying veins of polished and rusted iron surrounded by opaline scrollwork, swirling and abstract, a display of inordinate wealth.
+
+The wearer can block or deflect any incoming blow, reducing it to nothingness; doing so rusts one of the iron veins to nothing. If used against iron, the deflected item is destroyed and a vein is restored.
+
+## Peachseen Shirt
+
+This boiled and waxed linen shirt features a silver-threadedd peach tree espaliered; on inspection, the leaves are sewn with tiny eyes. Several of the branches seem to have already had their fruit plucked.
+
+The wearer of this armor can, in direct sunlight, pull a peach from it, the fruit materializing in their hand and disappearing from the artwork. For ten minutes after eating the peach the wearer is nigh invisible in shade but leaves behind a strong scent of crushed peaches.
+
+## Saffron Cap
+
+This scale cap is made of drakebones painted with small purple flowers and featuring small bronze protrusions like saffron stamens, polished so smooth they're nearly soft to the touch.
+
+Any of the stamens of this cap may be plucked by the wearer to reveal a needle point; if inserted into the earth, a patch of saffron will grow rapidly over the next day.
+
+## Shadowarrow Greaves
+
+This pair of ochre linen greaves is reinforced with thin bands of ironoak shaped like arrows in flight; Their leather straps feature ironoak buckles carved with runes of shadow which dance slowly when fastened.
+
+Anyone wearing these greaves finds that so long as they move in the shade their speed is doubled; clicking these greaves together sharpens all shadows the wearer stands in for the next ten minutes, doubling this effect.
+
+## Stormhorde Helm
+
+This closed-face bronze helm is embossed with renderings of all sorts of symbols of earthly and spiritual wealth; coins, prayers, wind, crops, cards, laughter, love, glory, ships, and fruit; hammered into the face, however, are tiny iron lightning bolts, all leading to the eye holes.
+
+The wearer of this helm feels and hears a soft crackling at all times, an endless nagging; by focusing on it, they cause a bolt of lightning to shoot from their eyes, robbing them of their vision temporarily but ending the crackling for a time.
+
+## Teamsters' Bulwark
+
+This hauberk is made of drakebone layered over pale blue leather and features marble discs showing folk standing before wagons, fists raised as wealthy folk approach, swords drawn.
+
+The disks of this hauberk may be detached and given by the wearer to anyone; while fighting shoulder to shoulder, they are twice as hard to kill or push back. Separated, twice as easy.
+
+## Bellylaugh Shield
+
+This shield features concentric rings of Pentolan marble and ridged bronze hammered into the shape of dozens of laughing and drinking folk. On close inspection, their teeth are tiny pieces of inlaid iron.
+
+If the bearer of this shield is made to laugh hard enough to hurt, the teeth of one of the images on the shield disappears and the person who made the bearer laugh is flooded with energy as all hunger, thirst, ache, and exhaustion fade away.
+
+## Clasping Buckler
+
+This buckler is made of willow woven like loosely clasped hands encircling the carnelian set in its bronze boss; from the handle dangles a long crimson silk tassle.
+
+If the bearer holds the hand of another person they are able to share thoughts wordlessly, accurately, and instantaneously. While they do so, the hands on the buckler tighten, pulling the edges inward.
+
+## Companionsong Shield
+
+This hourglass shield of woven reeds features a polished iron bell set into the top half while the bottom half's reeds are pierced by tiny iron runes of comradery, fortitude, courage, and sacrifice.
+
+When the bearer of this shield strikes the bell it emits a ringing paean louder than a lightning strike which fills allies with ardour that lasts for ten minutes; one of the remaining charms on the bottom half rusts away.
+
+## Destitution's Vengeance
+
+This mahogany hourglass shield is carved with images of a ridiculously wealthy warrior being overwhelmed and beaten to death by unarmored folk armed only with rough-hewn turquoise stones sewn into the surface.
+
+Whenever the bearer of this shield faces an enemy with greater wealth or standing their eyes slowly turn to turquoises over the course of a minute; when the transformation is complete, they become something like a battle spirit, powerful and deadly, and cannot stop until they kill their foe; when they do, the turquoise eyes fall out and their own grow back slowly over the course of a day.
+
+## Kissinghawk Buckler
+
+This stout bronze buckler's boss is of ironoak carved as a falconer nuzzling their raptor; around the outside edge opaline scrollwork details a Pentolan poem about the faith and trust between them.
+
+If the bearer kisses the buckler's boss a piercing cry fills the air as the nearest hawk comes to settle on the shield, calm and interested in the bearer.
+
+## Lifegrove Shield
+
+This tower shield is made of ironoak carved with a grove of cedar trees, their roots reaching down into a blue-gray mold that furs the bottom quarter of the face.
+
+If the bearer of this shield scrapes some of the mold into the mouth of an injured comrade, their wounds seal as if time reversed itself in their flesh, though the bearer's bones creak as they age a year for each injury so undone.
+
+## Lunar Hunger Shield
+
+This hourglass shield of stout drakeleather is painted with pitch and features an iron moon set into each half, both growing a pale purple mold that furs the hammered craters.
+
+When the bearer of this shield is fighting for something they *want*, the mold thickens and spreads, providing additional protection. The mold, if scraped and infused into a concoction, induces visions of the bearer's deepest desires.
+
+## Moonrot Shield
+
+This tin-covered shield is embossed with a garden dying beneath the light of the moon, whose rays are made of inlaid silver. The edge of the shield is covered in apparently rotting dark green silk.
+
+If the bearer of this shield touches it to a plant in moonlight, that plant and everything its roots touch begins to wither, further rotting the silk cover.
+
+## Moonshade Buckler
+
+This thin buckler is faced with a sheet of Pentolan marble etched like the surface of the moon; dangling from the rim are tiny iron shafts of stylized moonbeams.
+
+The bearer can remove any of the charms; for the next ten minutes, the moon's light refuses to shine near that charm as it rapidly rusts to nothing.
+
+## Nightswell Shield
+
+This drakeleather faced shield is painted sloppily with pitch, clean only where a symbol of the moon made from porcelain is sewn just above the boss. Moonlight pulses when it falls upon the shield's face.
+
+When held aloft in moonlight, this shield doubles in size with a flick of the wrist; shrinking again if the motion is repeated or the moonlight no longer falls upon it.
+
+## Silver Rampart
+
+This bronze tower shield is inlaid with silver depicting a fortress wall bristling with iron spear points and raining tiny iron tipped arrows down and out. The bottom of the shield features two stout spikes.
+
+When the bearer of this shield slams this shield into the ground and lets go a terrible thunder roars from the earth as the shield becomes fixed in place and behind it a twenty yard cube earthwork erupts forth, lifting all upon it. It lasts until the bearer reclaims the shield from the fortification wall or dies.
+
+## Uncrafting Shield
+
+This heavy tower shield is a solid piece of Pentolan marble, plain and smooth save for a dozen veins of iron laid into it and a half dozen more rusted to empty channels.
+
+If this shield is struck with magic of any sort, it is absorbed entirely, releasing a tephratic burst of energy violently back towards the source and one more vein of iron rusts away.
+
+## Bloodcauter
+
+This short bronze sword features a polished piece of mageglass set into its guard, always uncomfortably warm to the touch.
+
+If the bearer of this blade cuts themself and mixes their spilling blood with the wound of another, the wound burns closed safely, if painfully; until the next sunrise, however, the bearer's own bleeding will not even slow.
+
+## Bloodstorm Dagger
+
+This thin forked throwing dagger is made from surprisingly sturdy porcelain in the shape of a tall thin tree burning from a lightning strike that split its trunk. Its handle is wrapped in pale silk.
+
+The bearer of this throwing dagger who throws it into a surface marked with their own blood causes the blade to become a conduit for a fearsome lightning strike, forking one of the split halves of the tree again.
+
+## Crafter's Kiss
+
+This otherwise simple crossbow's handle is studded with tiny amethysts and agates in the form of kissing folk surrounded the swirling dust of the Violet Storm.
+
+Any dweomer the bearer knows can be manifested through a bolt loaded into this crossbow, obviating the need for any other targeting or distance calculations.
+
+## Fieldmaker Bow
+
+This ironoak bow is strongly recurved and smells faintly of sumac. The horn tips are carved with images of rolling fields of plenty.
+
+Any arrow deliberately loosed into the ground will snap the bowstring; however, so long as the arrow is not removed from the earth all things around it will grow heavy and thick unless tended by the archer.
+
+## Flameater
+
+This jagged mageglass dagger's handle is sheathed in dimpled bronze rather than wrapped in the usual silk. Held in a fire, the flame's colors shift to a dark purple, dimming the area as the flames slowly starve.
+
+The bearer of this dagger can feed flame, magical or mundane, to it and later imbue any dweomer of their own with the stolen flame, though the handle heats painfully while they do so and must not be dropped, lest they be engulfed instead.
+
+## Furytamer
+
+This draketooh's shaped halberd's head is held to the stave with golden pins and is etched with a snarling drake engulfed in roaring flames.
+
+When presented before any hostile beast it gives the creature pause and redirects their ire toward whatever the halberd is pointed at next.
+
+## Griffinweal
+
+This handaxe's head is made of delicate pale green porcelain in the shape of a snarling griffin, wings outstretched to either side, its body clad in scaled armor. It smells strongly of fresh crushed mint.
+
+The bearer of this axe finds themselves the friend of any raptor or griffin they encounter; a griffin who licks the axe head becomes bonded to it, willing to follow the bearer like kin.
+
+## Inferno's Fury
+
+This six yard long pike is tipped with a blade of porcelain shaped like a skyward-reaching flame. All other flames in its presence seem hungry and hateful, burning hot and smoky.
+
+The bearer of this pike feels the destructive hunger of every flame near them while they hold it; if they give into this hunger, they can hear the whispers of the flames telling them how to hurt and harm anyone the flames perceive.
+
+## Kinkeep Crossbow
+
+This massive crossbow's heavy trigger lever is made from ornately forged iron in the shape of a family of artisans showing each other their works; from the butt dangles a pale yellow silk tassel.
+
+Any bolt fired from this weapon made by a loved one impacts twice as hard and rips through magic as if it wasn't there; any other bolt impacts half as hard as normal and any magic inherent to it is nullified.
+
+## Moongaze Mace
+
+This stone-headed mace is carved in a flanged spiral, hafted on a long piece of ash. Hammered into the eye is a small silver moon which hums in darkness.
+
+When bearer of this mace strikes with it in moonlight and calls out to the moon, they draw its attention as a bolt of burning moonlight sears the spot they struck; until the moon sets, however, its gaze does not leave the bearer.
+
+## Slowflame Khopesh
+
+This flimsy copper khopesh is utterly plain and cheap save for the extravagant iron edge welded to it which undulates like lapping flames up the curved weapon.
+
+To wield this blade is to fight sluggishly as if underwater; to strike with this blade is to burn through stone like butter.
+
+## Towering Spear
+
+This short spear's haft is thick and octagonal, its long thin spire-shaped blade marked with a rune that seems to grow and shrink while watched.
+
+When this spear's bearer kisses the rune they rapidly grow to double their size; the rest of their equipment does not, save for the spear. This effect lasts until the sun sets.

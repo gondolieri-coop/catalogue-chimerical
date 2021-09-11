@@ -288,3 +288,66 @@ Function Get-ItemScaffold {
   }
   End {}
 }
+
+Function Get-Armor {
+  @(
+    'Bone Cap'
+    'Bone Helm (Open)'
+    'Bone Shirt'
+    'Bone Skirt'
+    'Enamelled Helm (Open)'
+    'Enamelled Breastplate'
+    'Enamelled Vambraces'
+    'Enamelled Greaves'
+    'Linen Helm (Open)'
+    'Linen Shirt'
+    'Linen Vambraces'
+    'Linen Skirt'
+    'Linen Greaves'
+    'Padded Cap'
+    'Padded Shirt'
+    'Padded Hauberk'
+    'Padded Trews'
+    'Plated Cap'
+    'Plate Helm (Open)'
+    'Plate Helm (Closed)'
+    'Plate Breastplate'
+    'Plated Coat'
+    'Plate Greaves'
+    'Scale Shirt'
+    'Scale Hauberk'
+    'Scale Skirt'
+  ) | Get-Random -Count 1
+}
+
+Function Get-Shield {
+  @(
+    'Buckler'
+    'Round Shield'
+    'Figure Eight Shield'
+    'Tower Shield'
+  ) | Get-Random -Count 1
+}
+
+Function Get-Weapon {
+  @(
+    'Dagger'
+    'Sword'
+    'Spear'
+    'Halberd'
+    'Pike'
+    'Throwing Dagger'
+    'Khopesh'
+    'Kopis'
+    'Mace'
+    'Club'
+    'Handaxe'
+    'Greataxe'
+    'Recurve Bow'
+    'Crossbow'
+    'Heavy Crossbow'
+    'Hand Crossbow'
+    'Repeating Crossbow'
+    'Sling'
+  ) | Get-Random -Count 12
+}
