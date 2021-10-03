@@ -148,6 +148,150 @@ This silver tablet is small enough to hold in one hand and inlaid with aquamarin
 
 When the bearer of this tablet's breath frosts in the air, they find that haggling comes easy to them, as does accurate appraisal for any goods being sold. Anyone attempting to mislead the bearer finds their lips blue visibly while doing so.
 
+## Anchor's Apron
+
+This sturdy linen apron has an anchor sewn into the front, the heart of which is a cluster of small cracked lapis lazuli. No matter how long it is left to dry, it's always a little damp when worn.
+
+When worn, everyone working around the wearer feels their steps are light, effortless, regardless of how much they carry or long they work.
+
+## Fealty Feast Bib
+
+This thick linen bib is luxuriously lined with polished iron strips, an unbelievable expenditure of wealth on a near-useless item.
+
+Anyone who eats beside the bib-wearer tastes only copper, all things rendered to taste like blood unless they deign to kiss the bib, further polishing the iron. Anyone who does so instead finds every morsel delectable, perfect to their taste regardless of actual composition.
+
+## Moonscream Cloak
+
+This pale yellow cloak is marred by a screaming mask of silver thread, the agape mouth holding a small iron moon upon its tongue. Picking it up always induces a spasming chill.
+
+If the wearer of this cloak screams while the moon is overhead they become the source of an eldritch blast that escapes their lips in a shattering wave; until the next moonrise, they can hear nothing but their own echoing scream.
+
+## Moonstorm Cloak
+
+This thick woolen cloak is shaded even in direct sunlight, featuring an storm bolts and a small iron moon between the shoulders. In moonlight, the bolts glow fiercely.
+
+The bearer of this cloak can, while in direct moonlight, grab a bolt from the cloak and fling it, striking the target with lightning.
+
+## Dress of Fruitful Graces
+
+This short daffodil-yellow linen dress features an espaliered persimmon tree, its fruits embroidered with golden threads.
+
+Anyone who makes eye contact with the wearer of this dress covets their attention and good will, drawn towards them; if the wearer plucks a persimmon from the dress and hands it over, the receiver becomes immune to this effect so long as they carry the persimmon.
+
+## Seizeflame Dress
+
+This long dress is made of violet linen without pattern or embellishment except for the a small porcelain badge of igniting flame sewn over the heart.
+
+When worn, the dress ripples and undulates away from the porcelain badge like flames licking outward; the wearer can reach out and pull flame into the dress, surrounding themself with fire that burns everything but themself.
+
+## Artisan's Aid Gloves
+
+This pair of golden drakeleather gloves is studded with ironoak shaped like Pentolan card money, each face card carefully inlaid with tiny iron charms.
+
+While worn, the wearer's hands are as youthful and spry as when they were teenagers, all aches and stiffness held off until the gloves are removed.
+
+## Moonkiss Handkerchief
+
+This richly black handkerchief features a field of ironoak stars sewn around a silver-threaded rune shaped like the moon.
+
+While worn, if the moon is facing outward under moonlight, the wearer heals from any new injuries with astonishing speed; if the wearer steps out of the moonlight before the moon fully sets, the wounds reopen just as quickly.
+
+## Gemspire Hat
+
+This tall conical hat is made of stiffened mint-green drakeleather, pleasantly tooled with geometric patterns of rings and lines. Set into each ring is a small precious stone--mostly diamonds, sapphires, and emeralds.
+
+While worn, the wearer cannot help but be noticed by anyone and everyone; merely looking at the hat in passing captures the attention to a degree that requires an onlooker to consciously wrestle their gaze away.
+
+## Saffron Safety Jacket
+
+This frivolously thin linen jacket is sewn with iron studs in the shape of saffron stems, slightly rusty. It smells strongly of the depicted herb.
+
+While worn, the wearer finds themself extremely clear minded, regardless of their physical condition or alchemical impairment; this clarity does not extend to control over their body's functions.
+
+## Ashdawn Vineyard Sash
+
+This bleached linen sash is embroidered with a prodigious vineyard growing from ash-thick earth, the grapes made of tiny amethysts. The ends of the the sash feature small bronze plates with violet silk tassles.
+
+If this sash is wrapped around flora planted in ash and left where it will get sunlight, the plant will grow as if a week has passed for each sunrise. Every dawn another amethyst grape vanishes.
+
+## Shipflame Sash
+
+This azure sash features a nine burning ships embroidered with thin iron wire, some of it rusting slowly. Three more rusty effigies of ships dot the sash.
+
+If the wearer of this sash touches a ship and then a flammable object, the object bursts into intense flame and rust crawls over the ship's wire. Each ship seem to be capable of being used three times before it rusts to nothing.
+
+## Trueflame's Sight Sash
+
+This gold-and-violet sash is pleasingly patterned like an abstraction of roiling flame, though it is marred by a dozen tiny iron eyes sewn chaotically into it.
+
+The wearer of this sash can pluck one of the iron eyes from this sash and press it into their own eye socket, filling it with flame that burns away all falsehood and deceit from their view.
+
+## Anger's Likeness Shawl
+
+This scorched linen shawl is embroidered with colorful silk faces, placid and near-featureless.
+
+While worn, the anger of everyone nearby is reflected in the faces of the shawl, taking their likeness and changing their expression to display their frustration or fury.
+
+## Ashsecret Shawl
+
+This ash-gray shawl's fringes wave and flicker like living fire, warm to the touch.
+
+Anything hidden inside the shawl while worn shrinks to be nearly weightless and undetectable, regardless of how bulky it is *so long as* it can be properly covered by the shawl.
+
+## Sun's Knowing Tunic
+
+This long silk shirt is dyed a brilliant pink and features a pair of lovers watching the break of dawn, the sun's rays sewn on as polished bronze plates.
+
+Worn in sunlight, this tunic enables the wearer and their partner to share thoughts instantaneously, but prevents the wearer from speaking aloud.
+
+## Infernal Arrow Socks
+
+This pair of silken sunset-orange knee-high socks features opaline arrows swirling like flames across the top of the foot.
+
+While worn openly, these socks protect the wearer from projectiles, burning them to ash in brilliant explosions as they approach; if the opaline arrows are covered, the projectiles instead superheat and strike unerringly.
+
+## Timeburning Socks
+
+This pair of long ash-washed lace socks has beads of golden flame fringing it, surprisingly damp.
+
+While worn, these socks burn away the advances of time, slowing it to a crawl. For every year they are worn, another golden bead disintegrates.
+
+## Burning Bonedance Tunic
+
+This thick black drakeleather tunic has been set with silver skeletons leaping and dancing through golden flames across the tunic's front. While worn, nearby flames dance with excitement.
+
+Anyone whose blood is splashed or smeared on one of the tunic's skeletons while it worn is overwhelmed by excruciating pain as their marrow heats rapidly; if they do not flee beyond the wearer's sight, they will be fully engulfed in flame after a minute.
+
+## Mintpluck Tunic
+
+This rich green linen tunic is embroidered with a massive golden peppermint, the flowers made of threaded silver. It fills the air with the same smell, always fresh.
+
+If the wearer of this tunic plucks a leaf from a cultivar, the leaf they pull free is thrice as large as it seemed when they grabbed hold.
+
+## Red Rage Tunic
+
+This pale pink linen tunic features a crimson-glazed figure of a furious Pentolan drakerider in full panoply, spear raised. The hem is lined with thin opaline panels, each carved with a word like "sacrifice", "glory", and "Perseverance".
+
+While worn, the wearer can channel the rage of the drakerider, all aggression coming easy and fast, though they become single-mindedly focused on conflict and victory until they drop from exhaustion or the tunic is removed by someone else.
+
+## Spearmother's Tunic
+
+This deep green tunic depicts an elderly woman turning ash poles into spears, embroidered onto the chest in bronze wire.
+
+While worn, any stave held by the wearer grows an eldritch leaf-bladed head, blunt until the wearer's blood touches it; until they let go of the stave, the blade can cut through anything, even dweomers.
+
+## Waverunner Vest
+
+This thin vest is made of supple aquamarine drakeleather, tooled with small golden ships skittering across waves tooled into it.
+
+The wearer of this vest finds that they can run quickly enough to race across water for short distances, so long as their feet are wet with that water first.
+
+## Held Hands Wrap
+
+This silken lavendar wrap features dozens of small hands entwined around a wand of holly, each made of ironoak. Between the fingers, a pale green mold slowly grows.
+
+While worn, any matrix the wearer holds can be used by a loved one, so long as they entwine their fingers with the wearer. Any dweomer cast through the matrix is twice as powerful if cast this way.
+
 ## Battlesibling Helm
 
 This dented bronze helm features a cracked pair of twin porcelain siblings wielding a sword and spear respectively. The crack runs right between them, shattering their once-held hands.
