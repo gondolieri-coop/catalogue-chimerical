@@ -11,8 +11,8 @@
 - name: Frostgiver Pendant
   categories:
     - jewelry
-  tags:
     - necklace
+  tags:
     - ice
   description: |
     This lapis lazuli pendant is miraculously strung not with wire but with thin ironoak, mysteriously supple whilst held. The engraving on the pendant shows a woman offering her cloak while snow falls thick.
@@ -32,6 +32,7 @@
 - name: Moonberry Ring
   categories:
     - jewelry
+    - ring
   tags:
     - greed
     - taste
@@ -42,6 +43,7 @@
 - name: Skirt of the Dancing Step
   categories:
     - clothing
+    - skirt
   tags:
     - dance
     - sight
@@ -126,6 +128,7 @@
 - name: Bear's Fury Piercings
   categories:
     - jewelry
+    - piercing
   tags:
     - nature
     - size
@@ -136,6 +139,7 @@
 - name: Infernally Bound Chain
   categories:
     - jewelry
+    - necklace
   tags:
     - fire
     - sight
@@ -166,6 +170,7 @@
 - name: Lightning's Scar Brooch
   categories:
     - jewelry
+    - brooch
   tags:
     - fire
   description: |
@@ -185,6 +190,7 @@
 - name: Starburst Veil
   categories:
     - clothing
+    - veil
   tags:
     - light
   description: |
@@ -308,6 +314,7 @@
 - name: Lover's Light Robe
   categories:
     - clothing
+    - robe
   tags:
     - light
     - love
@@ -350,6 +357,7 @@
 - name: Moonshrouded Shirt
   categories:
     - clothing
+    - shirt
   tags:
     - sight
     - moon
@@ -400,6 +408,7 @@
 - name: Winter's Breath Jacket
   categories:
     - clothing
+    - jacket
   tags:
     - ice
   description: |
@@ -419,6 +428,7 @@
 - name: Longworker's Gloves
   categories:
     - clothing
+    - gloves
   tags:
     - health
   description: |
@@ -448,6 +458,7 @@
 - name: Embrace of the Violet Storm
   categories:
     - clothing
+    - sash
   tags:
     - age
   description: |
@@ -467,6 +478,7 @@
 - name: Peacelily Ring
   categories:
     - jewelry
+    - ring
   tags:
     - nature
     - anger
@@ -488,6 +500,7 @@
 - name: Tumblespire Brooch
   categories:
     - jewelry
+    - brooch
   tags:
     - prosperity
     - gravity
@@ -563,6 +576,7 @@
 - name: Carbuncle's Friend
   categories:
     - jewelry
+    - anklet
   tags:
     - nature
     - beasts
@@ -584,6 +598,7 @@
 - name: Mintstorm Tunic
   categories:
     - clothing
+    - tunic
   tags:
     - nature
     - lightning

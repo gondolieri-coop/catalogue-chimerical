@@ -292,6 +292,150 @@ This silken lavendar wrap features dozens of small hands entwined around a wand 
 
 While worn, any matrix the wearer holds can be used by a loved one, so long as they entwine their fingers with the wearer. Any dweomer cast through the matrix is twice as powerful if cast this way.
 
+## Heart's Memory Anklet
+
+This anklet is made of rosemary with the petals gilded silver, the stems gold. The clasp is a pair of bronze hands reaching out for one another.
+
+The wearer is incapable of turning their thoughts far from loved ones, memories rising unbidden at all times. When attempting to recall a particular memory, it comes vibrantly and fully, clear as if it was moments ago.
+
+## Moonstep Anklet
+
+This gold anklet is set with tiny iron charms in form of a clouded moon.
+
+Anyone the wearer's foot rests on in direct moonlight is weakened enormously, unable to do more than breathe. For a minute after they are out of direct moonlight, they are instead as hale and hearty as they have ever been.
+
+## Skyswimmer Anklet
+
+This anklet is made of a bronze arrowhead marked with a bespiked rune and threaded with thin twisted iron wire.
+
+Beasts of the air seem to hate and fear the wearer of this anklet, fleeing or attacking them nigh universally. If the wearer's blood touches the rune, they find the air becomes thick as water for them, though they breathe without difficulty. This lasts until their blood dries.
+
+## Desire's Bloom
+
+This thin chain is made of alternating links of gold and silver and features a bloody daffodil wrought from rose gold.
+
+When worn around the waist, the daffodil blooms and shrinks in accordance with the covetous nature of the people nearby. If the daffodil blooms fully, the wearer knows the specifics of everyone's covetous thoughts.
+
+## Uncanny Chain
+
+This delicate porcelain chain wraps around the waist and carries disc of bronze inlaid with opaline scrollwork of duelling warriors.
+
+When the wearer touches the disc, they can focus on a single opponent and know their next move a split second before it begins.
+
+## Marblefalcon Bracelet
+
+This thick tin bracelet is etched with a screaming Pentolan falcon, its gaping beak made of cracked Pentolan marble; held aloft, shadows nearby flicker as if something races across them.
+
+When the wearer of this bracelet taps it against stone the depicted falcon's beak cracks thunderously and the bird tears itself free of the tapped stone, taking flight and obeying the wearer as if trained. After an hour, the stone falcon collapses lifelessly.
+
+## Moonmirror Bracelet
+
+This yellow silk bracelet holds a plain circle of bronze; on the reverse, a furry violet mold grows, rubbing off easily. The face is dull, reflecting nothing except in moonlight, when everything is reflected like a perfect mirror.
+
+Any time something stained with the mold from this bracelet is reflected on the bracelet's face it triples in size and stays that way until touched by sunlight.
+
+## Urchin's Reminder
+
+This kelp bracelet is beaded with irregularly round and dimpled carvings of ironoak; it is always damp against the skin.
+
+Whenever the wearer's anger threatens to overwhelm them, spines erupt from the dimpled beads, clearing their mind and drawing a trickle of blood.
+
+## Cobbler's Foe
+
+This bronze brooch is engraved with a pair of sandals, their straps broken and trailing. They hum excitedly when not in motion.
+
+When barefoot, the wearer's walking speed doubles; shoed, it is halved.
+
+## Drakekin Brooch
+
+This brooch is made of ironoak with a simple silver pin; carved into the face of the brooch is a pair of nuzzling drakes, one much larger, both with identical spikes. On the back, a simple silver rune.
+
+While worn, the imagery animates in slow motion; any drakes older than the wearer treat them as offspring; any younger drakes treat the wearer as a parent. The effect seems to wear off slowly unless the brooch is held by another, in which case it immediately transfers.
+
+## Dreamkiss Brooch
+
+This small iron brooch is shaped like a pair of puckered lips, its reverse engraved with a dozen names in tiny script.
+
+When the wearer kisses someone they have feelings for their body shifts, molding itself towards their own idealized form; in exchange, they become less physically attractive to whoever they kissed.
+
+## Snowgift Brooch
+
+This ironoak brooch is carved with a snowflake; in direct sunlight it is damp, out of it, frosted.
+
+The wearer can touch anyone else to render them immune to all cold until the next sunrise, turning one of the six points of the snowflake to iridescent ice. If all six points turn to ice, the wearer becomes immune too.
+
+## Creaking Circlet
+
+This twisted willow circlet bears a stylized geometric ironoak wrought from iron, the willow dyed blotchily red with old blood.
+
+Anything the wearer touches the ironoak to rapidly grows in side with audible creaking, though thorns grow from the willow into their head the longer they stay in contact and do not retract until fully removed.
+
+## Epoch's Wave
+
+This thin copper circlet is mounted with a blue-glazed porcelain disk depicted rippling waves. The image is always wet to the touch.
+
+Anyone wearing this circlet does not age so long as they are wet by rain or groundwater. If the wearer wets their hand on the disk and touches someone with that hand, they can freely transfer days of their life to and from the target.
+
+## Furyflame Chain
+
+This thick gold chain is made of loops evocative of twisted flame; the clasp is set in porcelain textured and glazed like a drop of boiling water.
+
+The necklace is always both warm and wet to the touch; when worn, the anger of those nearby is reportedly burned up by the necklace, one person per link. On command, the wearer can unleash the stored anger in a burst of hot air from their own lips.
+
+## Moonflecked Medallion
+
+This simple silver chain holds an ironoak disk sanded impossibly smooth. In moonlight, it becomes reflective.
+
+The wearer of this medallion can sense the presense of everyone not lit by the moon nearby. While concentrating, the wearer can see the face of anyone lit by moonlight nearby.
+
+## Avaricious Earrings
+
+A fan of etched Pentolan face cards sway from these silver earrings, always catching the light.
+
+The wearer of these earrings can hear even the softest whisper nearby, so long as it is about wealth. Plans to acquire or secure wealth are heard especially clearly.
+
+## Stoneshear Labrets
+
+These lip piercings are a small pair of kopis, their protruding handles shaped like Pentolan Pikes, their blades made of brightly polished iron. Worn, the handles protrude above the lips, the blades rest against the teeth.
+
+Pulled loose from the wearer, each kopis grows to full size in a moment, capable of cutting through even stone as if it were mere air. Until replaced, the wearer's mouth bleeds profusely.
+
+## Featherspear Pin
+
+This ash-shafted pin features a spearhead carved from jade in the shape of a quill feather; Whatever it is pinned through slowly grows a pale pink-gray mold.
+
+Whatever material this pin pierces becomes weightless as the mold grows over it, though it seems not to harm the material.
+
+## Hearthknowing Pin
+
+This thick shaped pin is carved from Pentolan marble and decorated with licking flames. Picking it up elicits a powerful wave of heat to shoot through the body.
+
+The wearer of this pin can take it off and touch it to any flame. While worn, they can sense the presence of anyone who can see those flames.
+
+## Telling Tongue Pin
+
+This bronze pin is shaped like an absurdly proportioned tongue, narrowing to a needle point. The back of the tongue features a simple ring through which a knotted tassle of multicolored silk has been threaded.
+
+The wearer of this pin has an exceptional sense of taste, enabling the discernment of flavor from across the room. If the pin is dipped into something and then licked, the bearer uncannily knows precisely what they are tasting, so long as they have tasted it before.
+
+## Winter's Edge
+
+This pin features a gold-bladed khopesh with a pale lavender silk tassle dangling from it.
+
+While worn, the wearer's breath is always frost-clouded. They are unaffected by cold and any wound they inflict crystallizes immediately.
+
+## Ring Celestial Lumen
+
+This silver and copper wire ring is set with a large cracked and dimpled opal. In sunlight, the opal slowly shrinks, the setting shrinking with it; in moonlight, it expands.
+
+When the wearer touches the opal to something, it dissolves and whatever was touched takes on an opaline sheen; until the next moonrise, the effect of sun/moon light is also transferred.
+
+## Roseblood Ring
+
+This thick copper ring is studded with tiny mageglass daggers, the sharp facets stained red.
+
+While worn, the wearer can smell the passion of anyone close like crushed roses; the strength of the scent is commensurate with the passion felt. Any blood spilled by the ring contains memories of the victim's most passionate moments.
+
 ## Battlesibling Helm
 
 This dented bronze helm features a cracked pair of twin porcelain siblings wielding a sword and spear respectively. The crack runs right between them, shattering their once-held hands.
