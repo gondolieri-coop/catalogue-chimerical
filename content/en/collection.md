@@ -651,3 +651,75 @@ To wield this blade is to fight sluggishly as if underwater; to strike with this
 This short spear's haft is thick and octagonal, its long thin spire-shaped blade marked with a rune that seems to grow and shrink while watched.
 
 When this spear's bearer kisses the rune they rapidly grow to double their size; the rest of their equipment does not, save for the spear. This effect lasts until the sun sets.
+
+## Infernal Tongue
+
+This small bronze effigy of a fire-ruined tongue is surprisingly wet to the touch.
+
+When pressed to one's own tongue it painfully destroys that organ, blackening it immediately. Thereafter, the ritualist's voice echoes and crackles like flame and what they name thrice will burst into flames if they can see it.
+
+## Love's Reflection
+
+This mirror is made from meticulously polished gold, chased with a love poem in tiny iron script.
+
+Looking into the mirror shows not oneself but their beloved. If looking in direct sunlight, all wounds and illness fade from the reflection and person alike; if in moonlight, they age rapidly and terribly.
+
+## Moonmarrow Hammer
+
+This tinkerer's hammer has a head carved from ironoak to look like the moon; its haft is always slick, ready to slip out of hand.
+
+The bearer can use this hammer to crush any bone in their own body with the slightest touch, filling them with tephra, supercharging any and all magic until the next moonrise. A bone broken this way never heals.
+
+## Padma's Blessing
+
+This small statue of a giant padma flower smells like its namesake and has petals of rusted iron. On its base, a sharp pin.
+
+If the bearer pricks themself with the statue, the flesh around the mark necrotizes and their flesh warps to present the same flower. The spike stamens can be removed and pressed into another living being, infecting them with the parasitic plant too. For sunrise the plant is not spread, more of the host's flesh decays. An infected host is immune to disease and poison.
+
+## Familial Feastbowl
+
+This bowl is carved from a single piece of Pentolan marble, edged in faces which on inspection always seem to be people the viewer knows and cares for.
+
+Any food placed in this bowl is delectable and fully nourishing to everyone else; to the owner, all food is tasteless unless and until a new owner offers them food from the bowl.
+
+## Rage's Gift
+
+This plain octagonal board and accompanying knife are carved from ironoak, every edge sharp, every surface polished mirror smooth.
+
+Any food cut on and with the implements contains an infuriating memory pulled from the cutter; whoever eats the food relives the memories in vivid detail, though the cutter forgets them forever.
+
+## Stonebite Shears
+
+This bronze pruning shear is bedecked with small emeralds, it's blades shaped like Pentolan playing cards with marble statues for the Matron and Captain.
+
+Any fruit clipped with these shears turns to a porous clay, easily chewable. Anyone who eats this fruit slowly turns to stone, starting with their teeth; if they do not bite someone else to transfer the effect by the next sunrise, they will become a statue.
+
+## Basket of Held Memory
+
+This thornwillow basket has a silk cover stitched with golden thread depicting the sun above a peaceful glade, strewn with various items.
+
+Anything placed into the basket is lost forever, stitched into the cover; the bearer can perfectly recall any memories made while holding the lost item, regardless of whose mind they live in.
+
+## Breaker of Earthbinding
+
+This smith's hammer is made entirely from bronze, etched with dozens of destroyed implements of battle. Picking it up causes a powerful jolt to run up the arm, forcing fingers to clench tight.
+
+If the bearer breaks something they own with this hammer gravity loosens its grip on them; for as many moonrises as seasons they owned the item, they leap and move as if they weighed a tenth as much.
+
+## Gourmand's Egg
+
+This large silver egg is clustered with dozens of small gems and has had half a dozen apparent bites chewed out of it; the bitten sections are bloodstained.
+
+Anyone who bites out a gem from the egg and chews it up will forever after taste anything safe to eat as if it is whatever they most want to taste at that moment; anything dangerous to them instead tastes like sewage. Eating from the egg is dangerous, damaging the mouth but deadening all nerves.
+
+## Moonthunder Rod
+
+This small silver rod has a spike on one end and is wrapped in opaline scrollwork of lightning falling from the moon.
+
+The rod can be placed into anything with ease; if anchored into something and in direct moonlight a blast of lightning will strike moments later, destroying whatever the rod was anchored to. Until the next moonrise, the bearer can hurl a bolt of lightning for each that fell in this way.
+
+## Smolderforge
+
+This small firestarter is inlaid with rubies in the shape of a burning axe; it is always uncomfortably hot to the touch.
+
+The bearer can use this item to set fire to any part of their panoply, rendering it to ruin in mere minutes. Any weapon touched to the smoldering remains is imbued with forgefire, burning through anything and everything until the ruins cool completely.

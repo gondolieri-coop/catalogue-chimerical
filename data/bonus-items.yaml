@@ -1,6 +1,7 @@
 - name: Thimble of Bloodsweat Endeavors
   categories:
     - ritual-sacrifices
+    - bodypart
   tags:
     - blood
     - metamagic
@@ -209,6 +210,7 @@
 - name: The Deck of Nails
   categories:
     - ritual-sacrifices
+    - bodypart
   tags:
     - health
   description: |
@@ -218,6 +220,7 @@
 - name: The Comrade's Bowl
   categories:
     - ritual-sacrifices
+    - food
   tags:
     - hunger
   description: |
@@ -295,6 +298,7 @@
 - name: Bloodflame Dish
   categories:
     - ritual-sacrifices
+    - food
   tags:
     - fire
   description: |
@@ -304,6 +308,7 @@
 - name: Pedestal of Thundering Thought
   categories:
     - ritual-sacrifices
+    - object
   tags:
     - hearing
     - lightning
@@ -344,9 +349,10 @@
     This azure-lacquered tablet has a moon-bent tree made from polished ironoak laid into its face, the roots of which entangle each other and protrude from the tablet to end in small spikes.
 
     When a group of people prick their finger upon the roots of the tree together, the root painfully breaks from the tablet, lodging itself as a splinter. Those who bear the splinters alway know the precise direction and distance to one another but also find themselves overcome with lust for each other when in moonlight.
-- name: Bloodflame Stone
+- name: Bloodburn Stone
   categories:
     - ritual-sacrifices
+    - bodypart
   tags:
     - beasts
     - fire

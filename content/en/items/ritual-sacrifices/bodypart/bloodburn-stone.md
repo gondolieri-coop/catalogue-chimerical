@@ -1,10 +1,10 @@
 ---
-title: Bloodflame Stone
+title: Bloodburn Stone
 description: This small jasper pebble is polished smooth and soft to the touch, almost squishy when held between two fingers. The swirls in its surface are remeniscent of a starting flame, just now catching hol...
 draft: false
 ---
 
-## Bloodflame Stone
+## Bloodburn Stone
 
 This small jasper pebble is polished smooth and soft to the touch, almost squishy when held between two fingers. The swirls in its surface are remeniscent of a starting flame, just now catching hold.
 
