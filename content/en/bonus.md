@@ -268,29 +268,11 @@ This ash crossbow has a stave of pentolan marble carved with a relief of the Pen
 
 The bearer of this crossbow finds themselves exceptionally hungry for renown and lucre alike; while using it in the service of those goals, they find that their aim is unerring, but they seem incapable of calculating risks.
 
-## Bloodflame Dish
-
-This soup dish is carved from a single piece of Pentolan marble, a roiling flame of stone spreading from its belly which is stained dark with blood.
-
-When food is mixed with the consumer's own blood, the consumer finds themself utterly immune to flame, smoke, and heat until they have finished digesting the meal; at that point, the consumer becomes violently ill for a day, vomiting flammable blood.
-
-## Bloodflame Stone
+## Bloodburn Stone
 
 This small jasper pebble is polished smooth and soft to the touch, almost squishy when held between two fingers. The swirls in its surface are remeniscent of a starting flame, just now catching hold.
 
 When pressed into an open wound, the bearer finds that the wound will not close and burns painfully, rendering the limb it was placed in nearly useless. In exchange, however, the bearer may touch any friendly beast, imbuing it with the spirit of flame, granting it immunity to fire even as it ignites into living flame. The stone cannot be removed except by amputation.
-
-## Pedestal of Thundering Thought
-
-This squat Pentolan marble pedestal is capped with a mirror of bronze, the surface of which causes a painful shock when touched.
-
-If an item is placed upon this pedestal beneath a clear sky it will be destroyed in a sudden and vicious bolt of lightning. For the next hour, the person who placed the item can hear the thoughts of its rightful owner. For the rest of the day, they are deafened by the echoes of thunder.
-
-## The Comrade's Bowl
-
-This shallow olive bowl is entirely unremarkable save for the golden spear head hammered into its belly and the fact that it is always and forever damp.
-
-If the keeper of this bowl places their own food into the bowl, they find that it is incredibly nutritious and tasty, feeding half-a-gross of other people with a single morsel. The keeper of the bowl, however, gains no nourishment from that or any meal for three days.
 
 ## The Deck of Nails
 
@@ -303,6 +285,24 @@ The bearer of this box may pull their fingernails and place them upon a blank ca
 This small porcelain thimble is chased in scarlet and has a crimson silk slip cover. The markings on the thimble itself are minute and depict a cheerful but strained proprietor hawking various wares from a cart.
 
 If the bearer spills enough of their own blood into the thimble to fill it, they are unable to use any magic for the day, though they find all mundane ventures one step easier. Each time the thimble is used, it seems to grow in size.
+
+## Bloodflame Dish
+
+This soup dish is carved from a single piece of Pentolan marble, a roiling flame of stone spreading from its belly which is stained dark with blood.
+
+When food is mixed with the consumer's own blood, the consumer finds themself utterly immune to flame, smoke, and heat until they have finished digesting the meal; at that point, the consumer becomes violently ill for a day, vomiting flammable blood.
+
+## The Comrade's Bowl
+
+This shallow olive bowl is entirely unremarkable save for the golden spear head hammered into its belly and the fact that it is always and forever damp.
+
+If the keeper of this bowl places their own food into the bowl, they find that it is incredibly nutritious and tasty, feeding half-a-gross of other people with a single morsel. The keeper of the bowl, however, gains no nourishment from that or any meal for three days.
+
+## Pedestal of Thundering Thought
+
+This squat Pentolan marble pedestal is capped with a mirror of bronze, the surface of which causes a painful shock when touched.
+
+If an item is placed upon this pedestal beneath a clear sky it will be destroyed in a sudden and vicious bolt of lightning. For the next hour, the person who placed the item can hear the thoughts of its rightful owner. For the rest of the day, they are deafened by the echoes of thunder.
 
 ## Beloved Memory Machete
 
