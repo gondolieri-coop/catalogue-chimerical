@@ -70,17 +70,17 @@ This small stone tablet depicts a pair of men holding hands as they share a sing
 
 While holding the tablet and looking at it, you can whisper a short message to the last person you shared a meal with and they will hear you, wherever they are. Using the tablet makes you ravenously hungry.
 
-## Embrace of the Violet Storm
-
-This pink silk waist wrap features purple threads in the image of the Violet Storm, strewn with tiny amethysts. Picking it up causes a powerful static shock.
-
-The wearer of this wrap does not appear to age but feels an overpowering desire to go out and brave the Violet Storm when it comes. If they do survive, the effects of the wrap endure even when not worn. If the wrap is ever removed, they age as if ten times as much time had passed since they first wore it.
-
 ## Longworker's Gloves
 
 These sky-blue drakeleather gloves feature small opals set into the first knuckle of each digit. A purple-gray mold grows in the shape of the Watchful Moon from the palm of each glove, regrowing in moonlight if scraped away.
 
 The wearer's hands never tire nor grow sore from work. The mold can be infused and drunk as a tea; the wearer finds the tea deeply bitter but others find it sweet and rejuvinating, filling them with energy as if they'd just woken from a relaxing nap.
+
+## Winter's Breath Jacket
+
+This thick dawn-gray linen jacket is stuffed with goose down and features golden thread woven into the hems and into an esoteric rune on the back which looks like a distorted snowflake made of arrowheads.
+
+The wearer never feels the cold though their breath always clouds in a thick fog. Snow which lands on the jacket is immediately subsumed by it, disappearing in a flash of steam.
 
 ## Lover's Light Robe
 
@@ -88,11 +88,11 @@ This short pale red linen robe has silver wire sewn through its edges displaying
 
 While worn by someone in love, all light is brighter, everything more visible. When worn by someone who loves no-one, all light fades, hiding the wearer in shadow.
 
-## Mintstorm Tunic
+## Embrace of the Violet Storm
 
-This tunic is idiomatic of Pentolan fashion, woven from some alchemically cultivated form of mint, and it smells like it. Darker leaves are woven around the hem in the shape of storm clouds.
+This pink silk waist wrap features purple threads in the image of the Violet Storm, strewn with tiny amethysts. Picking it up causes a powerful static shock.
 
-After discussion with the auctioneer, we tested and verified that the tunic makes the bearer extremely prone to lightning strikes, but immune to their destructive power.
+The wearer of this wrap does not appear to age but feels an overpowering desire to go out and brave the Violet Storm when it comes. If they do survive, the effects of the wrap endure even when not worn. If the wrap is ever removed, they age as if ten times as much time had passed since they first wore it.
 
 ## Moonshrouded Shirt
 
@@ -106,29 +106,35 @@ This celadon linen skirt features beads of porcelain sewn into the image of a vi
 
 The wearer finds that their every step is sure and they alway feel like dancing. Anyone who sees the wearer danced is entranced; the less they already like the wearer, the more they find they cannot tear their sight away.
 
+## Mintstorm Tunic
+
+This tunic is idiomatic of Pentolan fashion, woven from some alchemically cultivated form of mint, and it smells like it. Darker leaves are woven around the hem in the shape of storm clouds.
+
+After discussion with the auctioneer, we tested and verified that the tunic makes the bearer extremely prone to lightning strikes, but immune to their destructive power.
+
 ## Starburst Veil
 
 This sienna veil is fringed with bronze stars, each bearing an opaline heart. The cloth itself is thick and soft, falling in luxurious folds.
 
 Anyone other than the wearer who attempts to lift the veil to see their face is instead blinded by a dozen brilliant starbursts of colorful light which continue to explode painfully in their mind until the veil is dropped once more.
 
-## Winter's Breath Jacket
-
-This thick dawn-gray linen jacket is stuffed with goose down and features golden thread woven into the hems and into an esoteric rune on the back which looks like a distorted snowflake made of arrowheads.
-
-The wearer never feels the cold though their breath always clouds in a thick fog. Snow which lands on the jacket is immediately subsumed by it, disappearing in a flash of steam.
-
-## Bear's Fury Piercings
-
-This pair of dermal piercings are in the shape of roaring bear's heads, carved of ironoak and thinly coated with a pale blue-gray mold in the crevices.
-
-While worn in the flesh, whichever muscles the piercings were inserted into swell in size, as if perfected by years of training. The blue mold can be scraped and devoured to spread this effect throughout the body for ten minutes, but makes the imbiber violently ill for an hour afterward.
-
 ## Carbuncle's Friend
 
 This thin copper anklet is studded with half a dozen carbuncle eyes, crudely--though not hideously--set.
 
 While worn, any carbuncles in the area are drawn to the wearer, docilely rubbing their bodies up against the wearer's foot.
+
+## Lightning's Scar Brooch
+
+This tin brooch is shaped like a lightning-struck tree, with a dozen forks of lightning made from carefully inlaid porcelain, some of them broken.
+
+When the wearer nears a tree devastated by lightning, they are drawn to it. Placing a hand upon the charred husk transfers some of the heat of the strike to the wearer, searing their hand. The full impact of all lightning strikes thus absorbed will be released if any fork of porcelain lightning is ever broken.
+
+## Tumblespire Brooch
+
+A porcelain clasp for cloaks with small iron charms laid into it depicting one of the cities spires in various states of collapse. This spire does not seem to exist.
+
+This brooch was recovered from a hanged thief who sought to use it to pull down our embassy in this debaucherous place. Under... questioning, he admitted he had been instructed to slide the pin into the mortar of a central pillar, which would collapse the building after three cycles of the moon.
 
 ## Frostgiver Pendant
 
@@ -142,11 +148,11 @@ This thin silver chain has seven polished iron links strewn through it. When nea
 
 The wearer is immune to any and all affects of heat, magical or mundane. For every minute they expose themselves to heat which would cause them harm, one of the iron links will heat to a white glow, cooling one after another each hour. If all seven become hot enough to glow, the wearer is immediately immolated.
 
-## Lightning's Scar Brooch
+## Bear's Fury Piercings
 
-This tin brooch is shaped like a lightning-struck tree, with a dozen forks of lightning made from carefully inlaid porcelain, some of them broken.
+This pair of dermal piercings are in the shape of roaring bear's heads, carved of ironoak and thinly coated with a pale blue-gray mold in the crevices.
 
-When the wearer nears a tree devastated by lightning, they are drawn to it. Placing a hand upon the charred husk transfers some of the heat of the strike to the wearer, searing their hand. The full impact of all lightning strikes thus absorbed will be released if any fork of porcelain lightning is ever broken.
+While worn in the flesh, whichever muscles the piercings were inserted into swell in size, as if perfected by years of training. The blue mold can be scraped and devoured to spread this effect throughout the body for ten minutes, but makes the imbiber violently ill for an hour afterward.
 
 ## Moonberry Ring
 
@@ -159,12 +165,6 @@ The bearer of this ring is compelled to kiss it and to seek out fruits to satisf
 A small copper ring with a razor sharp porcelain peace lily erupting from it, stained with blood that obstinately refuses wash out.
 
 When the bearer pricks their own finger on the flower, the tempers of everyone nearby are said to cool considerably, robbing them of violent and hurtful thought.
-
-## Tumblespire Brooch
-
-A porcelain clasp for cloaks with small iron charms laid into it depicting one of the cities spires in various states of collapse. This spire does not seem to exist.
-
-This brooch was recovered from a hanged thief who sought to use it to pull down our embassy in this debaucherous place. Under... questioning, he admitted he had been instructed to slide the pin into the mortar of a central pillar, which would collapse the building after three cycles of the moon.
 
 ## Flamekeeper Vambraces
 
