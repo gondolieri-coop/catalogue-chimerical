@@ -723,3 +723,141 @@ The rod can be placed into anything with ease; if anchored into something and in
 This small firestarter is inlaid with rubies in the shape of a burning axe; it is always uncomfortably hot to the touch.
 
 The bearer can use this item to set fire to any part of their panoply, rendering it to ruin in mere minutes. Any weapon touched to the smoldering remains is imbued with forgefire, burning through anything and everything until the ruins cool completely.
+
+## Brush of the Raptor
+
+This small ink brush's handle is porcelain glazed with the image of a Pentolan falcon soaring, with bristles from an eyas of the same.
+
+Anything marked with this brush becomes weightless until the ink dries; it always uses much more ink than expected.
+
+## Grievance
+
+This large olive-handled brush's bristles are impossibly thin strands of carved jade, surprisingly supple and leaving an indelible green ink on any flesh they touch.
+
+Anyone using this brush cannot help but write out their deepest held fury on the nearest surface; as they write, the same words are tattooed on the source of their ire. In moonlight, the script glows visibly through any material, revealing itself to everyone nearby.
+
+## Shipwright's Friend
+
+This slick chisel's blade is made from a single piece of jade carved with a tiny tree thick with olives on one face; every shaving made by it smells intensely of fresh-pressed olives.
+
+Holding this chisel seems to slow the whole world down; when used, the carpenter finds that they are able to accomplish an hour's work in a mere minute.
+
+## Mercantile Magi Drill
+
+This massive bow drill's bit is wrought from iron shaped like a spire, draped in silk ribbons stitched with gold and silver thread in stanzas of a poem about dying wealthy.
+
+Drilling through any currency releases its value as energy freely available to the user to supplement their magic.
+
+## Lunar Beauty Fan
+
+This large fan is wrought from tarnished silver wrapped in opaline tendrils. The dimpled and marred feathers expand to a full circle around the handle, mirroring the watchful moon.
+
+When this fan is waved it produces no noticeable current, though plants sway before it; any plant moved by this fan will bloom beautifully during the next moonrise and die at moonset.
+
+## Heavy Supper Fork
+
+This serving fork is carved from ironoak, its handle carved like an orchid, its tines stained darkly red.
+
+Any meat served with this fork fills the eaters heavily, as if their weight had suddenly increased by an order of magnitude and lasting until fully digested.
+
+## Nutrition's Fire Fork
+
+This small wrought iron dinner fork is twisted, malformed by heat. Near open flame it writhes.
+
+Any food speared and eaten from this fork, no matter how plain or rotten, never satiates and instead increases hunger. Each bite is as nutritious as a full days meal and burns the tongue.
+
+## Adoration's Sculpter
+
+This putty knife's handle is set with a sapphire held between two clasped hands; on the other side, a rune which evokes a sense of longing.
+
+The bearer of this putty knife can hold hands with a loved one and smooth away any blemishes the loved one perceives themself to have, placing them upon their own body in reflection, though the loved one never seems to mind it.
+
+## Stormclear Machete
+
+This otherwise plain machete's thick spine is studded with tiny topaz stones zig-zagging like lighting. Beneath a cloudless sky, it hums impatiently.
+
+When used to clear away living matter the blade never seems quite sharp enough; beneath a raging storm, it cuts through anything, crackling with barely contained power, each swing arcing powerfully.
+
+## Sungrinder
+
+This heavy granite mortar and pestle are both ringed with undulating bronze flames, the pestle stained deeply red.
+
+Anything ground in the mortar desperately desires to be ignited by the smallest spark; when it is, all nearby fires go out and a light as bright as the sun explodes, affecting everyone whose hands were not on the mortar or pestle while grinding.
+
+## Pliars of Knowing
+
+This pair of pliars is made from gold and silver wire twisted and barbed, its teeth made from small rough rubies. While holding them, the bearer feels a physical jolt of intense desire when seeing others with wealth.
+
+Holding these pliars grants the bearer vague understanding of whether or not someone's wealth was acquired unjustly; the tighter they are gripped, the more clarity the bearer has and the more welling rage they feel.
+
+## Bowyer's Dedication
+
+This two-person crosscut saw's handles are uncomfortably studded with arrowhead peridots; between the teeth, a furry green mold accumulates with every cut.
+
+Using this saw is extraordinarily tiring, rendering sawyers exhausted after mere minutes of use. The mold can be infused into a tea to render immunity to the saw's effect and enable the sawyers to see in perfect clarity regardless of lighting conditions.
+
+## Saw of Resolution
+
+This pocket chain saw's pale handle is pitted and marred like the moon, its teeth made from rusting iron; it smells strongly of jasmine while held in both hands.
+
+Using this saw brings the sawyer to a meditative state where they can think about nothing but the last event that angered them; while sawing, time dilates for them, ending only when they resolve their anger.
+
+## Retirement Scythe
+
+This scythe's blade is a viciously sharp halbard carved from Pentolan marble, a riot of colorful silk tassels dangle from the back handle.
+
+Any plants reaped in sunlight with this tool rapidly recover, growing to their original state by the time the moon reaches its next zenith. Any plants reaped without the sun wither and die, though twice as much produce seems to accumulate from every cut.
+
+## Companion's Tears Shears
+
+This pair of shears has blades made from dented and scuffed bronze spearheads engraved with tear drops. When not held, they hum ominously.
+
+The bearer of these shears sees strands connecting them to everyone around them; cutting the threads erases both people from the other's memory forever.
+
+## Grudgeburier
+
+This silver bladed spade's handle is made of porcelain glazed with flames consuming a great estate, destroying generations of wealth.
+
+If the bearer of this spade buries their most prized possession with it the ground smokes and glows, the item appearing in the depiction on the handle. The first person whose name is spoken over the smoldering ground experiences terrible misfortune at the next zenith of the moon.
+
+## Stylus of Forgotten Visions
+
+This charred oak stylus is wrapped in spiraling opaline scrollwork of dancing flames consuming illegible script. It is always comfortably warm in the hand.
+
+This stylus easily marks even the hardest and coldest surfaces as if they were pliable wax; anything written or sketched with it is entirely forgotten as soon as the user lets go of the stylus but merely seeing the words brings vivid visualization of the material to mind.
+
+## Carver's Cheat
+
+These porcelain tongs are tipped with caps of Pentolan marble, their faces carved with people dancing in the Catacombs. Beneath the ground they hum happily, expectantly.
+
+Anything gripped with these tongs slowly metamorphoses into Pentolan marble; Any object carved from Pentolan marble slowly animates, if gripped underground.
+
+## Stoneforge Tongs
+
+These wrought iron tongs grow a furry orange mold at their tips; while held, the mold grows and heats, eventually glowing white hot, though they're always ice cold to the bearer's touch.
+
+Nothing held by these tongs seems to heat in anyway except for stone, which becomes malleable like heated metal. If the mold is scraped free and ingested it suffuses the body with unbearable heat cooled only by ingesting stones.
+
+## Drakefoe Trowel
+
+This pointing trowel is hafted with ironoak in the uncomfortable shape of a distorted and snarling drake. The bronze blade is surprisingly sturdy for being wafer thin.
+
+While held, all drakes which can smell or see the bearer hunger mightily for their flesh, pursuing them aggressively. The trowel pierces their hides with ease; any drake killed with this trowel whose bones are kept and cemented together with it animate as guardians while the moon is risen.
+
+## Floormason's Gift
+
+This floating trowel's blade is made of solid gold set with tiny bricks of variegated jewels; when light strikes the bricks they cast a hypnotizing dance of refracted color.
+
+This trowel never seems capable of producing a flat surface when used over wet cement; pressing it over solid stone creates a perfectly flat and level surface.
+
+## Archer's Kin
+
+This small whetstone is surprisingly chiseled from amethyst, its face roughened with a thousand tiny chips shaped like arrowheads. It never needs lubrication.
+
+When used to sharpen an arrowhead, the shaft that head is affixed to flies in a perfectly flat trajectory until out of the archer's sight.
+
+## Frostslice Stone
+
+This massive whetstone is set into an ironoak block carved with a hundred cut-apart shields, their insignia marred with a smeared red snowflake.
+
+Any implement sharpened on this whetstone becomes impossibly sharp and cold, almost unbearable to hold. It cuts through anything, but to hold it for more than a few moments is to risk frostbite. The next time the sun rises, the blade becomes dull and temperate.
