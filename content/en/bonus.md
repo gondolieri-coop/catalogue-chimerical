@@ -363,3 +363,9 @@ When used to prepare herbs, the keeper of this culinary tool finds that their en
 This simple wooden handtruck has a too-thin iron lever at the bottom but nevertheless is capable of bearing any load lifted upon it.
 
 When used to transport anything, the user of this handtruck finds that they are tireless, able to work for hours without feeling any strain, though observers note that they do show it, nonetheless. When the user lays down to sleep, they remain in a deep slumber for as twice as many hours as they used the handtruck.
+
+## Burnlight Brush
+
+This jasper-handled powder brush has slightly charred bristles and is surprisingly heavy in the hand.
+
+Anyone whose makeup is applied with this brush can smudge it to escape gravity's grasp for one minute. Afterward, the makeup burns painfully until removed.

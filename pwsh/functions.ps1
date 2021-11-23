@@ -17,7 +17,8 @@ Function Export-ItemAsPage {
   Begin {}
   Process {
     ForEach ($Item in $Items) {
-      $Path = "$RootPath/$($Item.categories -join '/')/$(Get-UrlizedString -InputObject $Item.name).md"
+      $CategoryPathSegment = ($Item.categories | ForEach-Object { Get-UrlizedString -InputObject $_ }) -join '/'
+      $Path = "$RootPath/$CategoryPathSegment/$(Get-UrlizedString -InputObject $Item.name).md"
       $Content = @(
         '---'
         "title: $($Item.name)"
