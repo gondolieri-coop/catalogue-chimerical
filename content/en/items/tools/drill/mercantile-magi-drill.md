@@ -8,4 +8,4 @@ draft: false
 
 This massive bow drill's bit is wrought from iron shaped like a spire, draped in silk ribbons stitched with gold and silver thread in stanzas of a poem about dying wealthy.
 
-Drilling through any currency releases its value as energy freely available to the user to supplement their magic.
+Drilling through any currency releases its value as tephra freely available to the user to supplement their magic.

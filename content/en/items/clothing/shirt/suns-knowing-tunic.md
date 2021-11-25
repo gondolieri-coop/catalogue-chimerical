@@ -8,4 +8,4 @@ draft: false
 
 This long silk shirt is dyed a brilliant pink and features a pair of lovers watching the break of dawn, the sun's rays sewn on as polished bronze plates.
 
-Worn in sunlight, this tunic enables the wearer and their partner to share thoughts instantaneously, but prevents the wearer from speaking aloud.
+Gifted by a Pentolan ambassador, this work's effects were confirmed to my satisfaction: worn in sunlight, this tunic enables the wearer and their partner to share thoughts instantaneously, but prevents the wearer from speaking aloud.

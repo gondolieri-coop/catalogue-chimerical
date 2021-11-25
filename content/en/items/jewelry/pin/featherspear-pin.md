@@ -1,11 +1,11 @@
 ---
 title: Featherspear Pin
-description: This ash-shafted pin features a spearhead carved from jade in the shape of a quill feather; Whatever it is pinned through slowly grows a pale pink-gray mold....
+description: This ash-shafted pin features a spearhead carved from jade in a shape suggestive of a quill feather; whatever it is pinned through slowly grows a pale pink-gray mold....
 draft: false
 ---
 
 ## Featherspear Pin
 
-This ash-shafted pin features a spearhead carved from jade in the shape of a quill feather; Whatever it is pinned through slowly grows a pale pink-gray mold.
+This ash-shafted pin features a spearhead carved from jade in a shape suggestive of a quill feather; whatever it is pinned through slowly grows a pale pink-gray mold.
 
-Whatever material this pin pierces becomes weightless as the mold grows over it, though it seems not to harm the material.
+This work was deposited anonymously at our archway, I discovered the effect by simple experimentation: whatever material this pin pierces becomes weightless as the mold grows over it, though it seems not to harm the material.
