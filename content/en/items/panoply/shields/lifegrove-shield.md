@@ -8,4 +8,4 @@ draft: false
 
 This tower shield is made of ironoak carved with a grove of cedar trees, their roots reaching down into a blue-gray mold that furs the bottom quarter of the face.
 
-If the bearer of this shield scrapes some of the mold into the mouth of an injured comrade, their wounds seal as if time reversed itself in their flesh, though the bearer's bones creak as they age a year for each injury so undone.
+Purchased at auction, the claim for this work was verified by a local apothecary who had used it in the past. If the bearer of this shield scrapes some of the mold into the mouth of an injured comrade, their wounds seal as if time reversed itself in their flesh, though the bearer's bones creak as they age a year for each injury so undone. As backwards as Pentolan medicine is, this work came at an enormously steep cost; we might think they would invest more in their education but, of course, they prefer to fall back on the Craft they only half understand.
