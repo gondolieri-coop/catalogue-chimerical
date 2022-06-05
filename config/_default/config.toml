@@ -19,7 +19,7 @@ disableKinds = ["taxonomyTerm"]
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      hardWraps = true
+      # hardWraps = true
       unsafe = true
       xHTML = true
   [markup.highlight]
