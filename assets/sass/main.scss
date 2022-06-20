@@ -64,3 +64,10 @@ $light-nav-icon-color: {{ .Site.Data.color.light_nav_icon_color }};
 @import 'pages/single';
 @import 'pages/list';
 @import 'pages/blog';
+
+.single__contents p {
+  padding-top: 0em;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 1rem;
+}
